@@ -128,4 +128,3 @@ sympy-plots-for-*.tex/
 .DS_Store
 public/
 config.local.toml
-content_old/
