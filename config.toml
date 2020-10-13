@@ -1,0 +1,183 @@
+publishdir = "public"
+static = "/static"
+builddrafts = false
+# Replace this with your website URL
+baseurl = "https://biaslab.github.io"
+canonifyurls = true
+theme = "academic-group"
+title = "BIASlab"
+math = true
+copyright = "&copy; BIASlab, 2020 "
+enableRobotsTXT = true
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+  description = "Website of research group"
+  author = "BIASlab"
+  email = "info<at>biaslab.org"
+  address = '<a href="https://www.google.nl/maps/place/Flux/@51.4477301,5.4899384,17z/data=!3m1!4b1!4m13!1m7!3m6!1s0x47c6d8e732a9a3c3:0x5b7b2b4ec811981c!2sFlux!3b1!8m2!3d51.4477268!4d5.4921271!3m4!1s0x47c6d8e732a9a3c3:0x5b7b2b4ec811981c!8m2!3d51.4477268!4d5.4921271">Flux building 7.060, Groene Loper 19, 5612 AP Eindhoven, the Netherlands</a>'
+  slogan = "BIAS<b>LAB</b>"
+  slogan_icon = "icon-spsbrats_logo"
+  slogan_text = "Bayesian Intelligent Autonomous Systems"
+  custom_css = ["biaslab.css"]
+  landing_heading = "Natural Artificial Intelligence"
+  landing_description = "Automating the development of novel signal processing and control systems through <span style=\"white-space: nowrap;\">neuro-inspired</span> <span style=\"white-space: nowrap;\">free-energy</span> minimizing agents"
+  positions_available = true
+
+  [params.logo]
+    image = "img/tue-logo.png"
+    link = "https://tue.nl"
+
+  [[params.navbar_hierarchy]]
+    name = "SPS"
+    link = "https://www.tue.nl/en/research/research-groups/signal-processing-systems/"
+    position = 1
+
+  [[params.navbar_hierarchy]]
+    name = "BIASlab"
+    link = "/"
+    position = 2
+
+  [[params.sponsors]]
+    name = "NWO"
+    link = "http://www.stw.nl"
+    image = "/img/sponsors/NWO.png"
+  [[params.sponsors]]
+    name = "GN Resound"
+    link = "http://www.resound.com/"
+    image = "/img/sponsors/GNResound.png"
+
+  # Selected Publications section.
+  [params.publications_selected]
+    detailed_list = true
+    title = "Selected Publications"
+    subtitle = ""
+
+  # Publications section.
+  # Section will only be displayed if there are publications in `content/publication/`.
+  [params.publications]
+    count = 5
+    detailed_list = false
+    title = "Publications"
+    subtitle = ""
+    str_all = "More Publications"
+
+  # Posts section.
+  # Section will only be displayed if there are posts in `content/post/`.
+  [params.posts]
+    count = 2
+    title = "Blog"
+    subtitle = ""
+    str_all = "More Posts"
+    str_read_more = "Read more"
+
+  # Projects section.
+  # Section will only be displayed if there are projects in `content/project/`.
+  [params.projects]
+    title = "Projects"
+    subtitle = ""
+    count = 3
+    str_all = "More Projects"
+
+  # Vacancies section
+  # Section will only be displayed if there are valid vacancies in `content/vacancy`
+  [params.open_projects]
+    title = "Open projects"
+    subtitle = ""
+    count = 3
+    str_all = "All open projects"
+
+  # Contact section.
+  [params.contact]
+    enable = true
+    title = "Contact"
+    subtitle = ""
+    autolink = false  # Automatically link email and phone?
+
+  # Navigation Links
+  #   The weight parameter defines the order that the links will appear in.
+
+  [[menu.main]]
+    name = "Home"
+    url = "/#home"
+    weight = 1
+
+  [[menu.main]]
+    name = "Publications"
+    url = "/#publications"
+    parent="research"
+    weight = 3
+
+  [[menu.main]]
+    name = "Starter's guide"
+    url = "/research/starter-guide"
+    parent="joinus"
+    weight = 3
+
+  [[menu.main]]
+    name = "Research"
+    weight = 2
+    identifier = "research"
+
+  [[menu.main]]
+    name = "Projects"
+    url = "/#projects"
+    parent = "research"
+    weight = 2
+
+  [[menu.main]]
+    name = "Blog"
+    url = "/#posts"
+    parent = "research"
+    weight = 4
+
+  [[menu.main]]
+    name = "Team"
+    url = "/#members"
+    weight = 5
+
+  [[menu.main]]
+    name = "Software"
+    weight = 3
+    identifier = "software"
+
+  [[menu.main]]
+    name = "ForneyLab.jl"
+    url = "https://biaslab.github.io/ForneyLab.jl/stable/"
+    parent = "software"
+    weight = 1
+
+  [[menu.main]]
+    name = "Rocket.jl"
+    url = "https://biaslab.github.io/Rocket.jl/stable"
+    parent = "software"
+    weight = 2
+
+  [[menu.main]]
+    name = "Join us"
+    url = "#open-projects"
+    weight = 6
+    identifier="joinus"
+
+  [[menu.main]]
+    name = "Open projects"
+    url = "/open-projects"
+    parent = "joinus"
+
+  [[menu.main]]
+    name = "Contact"
+    url = "/#contact"
+    weight = 7
+
+  [[menu.main]]
+    name = "Teaching"
+    url = "/teaching/bmlip"
+    weight = 2

@@ -1,0 +1,23 @@
+<div class="pitch-large-screens">
+      <div class="landing-pitch-md">
+            {{ with .Site.Params.landing_heading }}<h1 class="landing-heading">{{.}}</h1>{{end}}
+            {{ with .Site.Params.landing_description }}<h2 class="landing-description"> {{.|safeHTML}} </h2>{{end}}
+            <a class="btn btn-pitch btn-outline" href="/about">Find out more</a>
+      </div>
+</div>
+
+<div class="pitch-small-screens">
+      <div class="container">
+            <div class="landing-pitch-xs">
+                  {{ with .Site.Params.landing_heading }}<h1 class="landing-heading">{{.}}</h1>{{end}}
+                  {{ with .Site.Params.landing_description }}<h2 class="landing-description"> {{.|safeHTML}} </h2>{{end}}
+                  <a class="btn btn-pitch btn-outline" href="/about">Find out more</a>
+            </div>
+      </div>
+</div>
+
+<header class="space-below ">
+      <div class="header-content">
+        {{partial "banner.html" .}}
+      </div>
+</header>
