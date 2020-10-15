@@ -6,7 +6,16 @@
     <description>Recent content on Landskape AI</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; Landskape AI, 2020 </copyright>
-    <lastBuildDate>Sat, 07 Sep 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://landskapeai.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://landskapeai.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rotate to Attend: Convolutional Triplet Attention Module</title>
+      <link>https://landskapeai.github.io/publication/triplet/</link>
+      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://landskapeai.github.io/publication/triplet/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Mish: A Self Regularized Non-Monotonic Activation Function</title>
       <link>https://landskapeai.github.io/publication/mish/</link>
@@ -74,15 +83,6 @@ if (dvdProcessorVolume &amp;lt; mpegProcess(slashdot, gigahertz)) { transferAnsi
       <guid>https://landskapeai.github.io/research/</guid>
       <description>Modo est Non sub haedum tenet Lorem markdownum esse diversa quoque vocavit, quam! Vires tibi axis dum spolium vaticinor fulminis, a dixere attrahit generisque tamen?
  Petit invergens iram praetendat iam Mecum res curva iunctura silvis hoc leonum Iacent gemitum quos  Non est duram mitis sonat proculcat tumulos Alce bimembres Dauni, cur ex voces referam adunco in sors. Manibusque poples prodidit lata tantum quem suos ratae Aeginae sederunt degenerat Bacchus descendere, patriisque ieiunia.</description>
-    </item>
-    
-    <item>
-      <title>Rotate to Attend: Convolutional Triplet Attention Module</title>
-      <link>https://landskapeai.github.io/publication/triplet/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://landskapeai.github.io/publication/triplet/</guid>
-      <description></description>
     </item>
     
   </channel>

@@ -6,22 +6,22 @@
     <description>Recent content in Publications on Landskape AI</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; Landskape AI, 2020 </copyright>
-    <lastBuildDate>Sat, 07 Sep 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://landskapeai.github.io/papers/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://landskapeai.github.io/papers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rotate to Attend: Convolutional Triplet Attention Module</title>
+      <link>https://landskapeai.github.io/publication/triplet/</link>
+      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://landskapeai.github.io/publication/triplet/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Mish: A Self Regularized Non-Monotonic Activation Function</title>
       <link>https://landskapeai.github.io/publication/mish/</link>
       <pubDate>Sat, 07 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://landskapeai.github.io/publication/mish/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rotate to Attend: Convolutional Triplet Attention Module</title>
-      <link>https://landskapeai.github.io/publication/triplet/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://landskapeai.github.io/publication/triplet/</guid>
       <description></description>
     </item>
     
