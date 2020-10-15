@@ -1,4 +1,4 @@
 +++
-title = "BIASlab team"
+title = "Landskape Team"
 url="/team"
 +++
