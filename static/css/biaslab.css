@@ -12,8 +12,8 @@
 
 header{
     max-width: 100%;
-    width:auto;
-    height:auto;
+    width:wrap-content;
+    height:wrap-content;
     background-image: url("../img/header.jpg");
     background-size: cover;
     /* background: #ffffff;

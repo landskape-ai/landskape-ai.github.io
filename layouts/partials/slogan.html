@@ -1,23 +1,33 @@
-<div class="pitch-large-screens">
-      <div class="landing-pitch-md">
-            {{ with .Site.Params.landing_heading }}<h1 class="landing-heading">{{.}}</h1>{{end}}
-            {{ with .Site.Params.landing_description }}<h2 class="landing-description"> {{.|safeHTML}} </h2>{{end}}
-            <a class="btn btn-pitch btn-outline" href="/about">Find out more</a>
-      </div>
-</div>
-
-<div class="pitch-small-screens">
-      <div class="container">
-            <div class="landing-pitch-xs">
-                  {{ with .Site.Params.landing_heading }}<h1 class="landing-heading">{{.}}</h1>{{end}}
-                  {{ with .Site.Params.landing_description }}<h2 class="landing-description"> {{.|safeHTML}} </h2>{{end}}
-                  <a class="btn btn-pitch btn-outline" href="/about">Find out more</a>
-            </div>
-      </div>
-</div>
-
 <header class="space-below ">
       <div class="header-content">
-        {{partial "banner.html" .}}
+          <div class="header-content-inner">
+              <h1>
+                  {{ with .Site.Params.slogan_icon }}
+                      <i class="{{.}}"></i>
+                  {{ end }}
+                  {{.Site.Params.slogan | safeHTML}}
+              </h1>
+              <!-- <hr> -->
+              <p class="slogan-text">
+                  {{.Site.Params.slogan_text}}
+              </p>
+              <div class="container-fluid">
+                  <div class="row">
+                      {{range .Site.Params.slogan_columns}}
+                      <div class="col-xs-12 col-md-4">
+                          <h3>{{.title}}</h3>
+                          <p class="slogan-column">{{.text | markdownify}}</p>
+                      </div>
+                      {{end}}
+                  </div>
+                  <div class="row">
+                      {{range .Site.Params.slogan_columns}}
+                      <div class="col-xs-12 col-md-4">
+                          <a href="{{.link}}">{{.link_text}}</a>
+                      </div>
+                      {{end}}
+                  </div>
+          </div>
+          </div>
       </div>
-</header>
+  </header>
