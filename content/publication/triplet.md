@@ -8,7 +8,7 @@ math = true
 publication = "Preprint"
 publication_short = ""
 selected = false
-title = "Mish: A Self Regularized Non-Monotonic Activation Function"
+title = "Rotate to Attend: Convolutional Triplet Attention Module"
 url_code = "https://github.com/LandskapeAI/triplet-attention"
 url_dataset = ""
 url_pdf = "https://arxiv.org/pdf/2010.03045.pdf"
@@ -17,15 +17,17 @@ url_slides = ""
 url_video = ""
 
 [[authors]]
-    name = "Diganta"
+    name = "Diganta Misra"
+    id = "diganta"
     is_member = true
+    
+[[authors]]
+    name = "Trikay Nalamada"
+    is_member = false
 
 [[authors]]
-    name = "Trikay"
-    is_member = true
-
-[[authors]]
-    name = "Ajay"
+    name = "Ajay Uppili Arasanipalai"
+    id = "ajay"
     is_member = true
 
 [[authors]]
