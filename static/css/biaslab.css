@@ -15,13 +15,17 @@ header{
     width:auto;
     height:auto;
     background-image: url("../img/header.jpg");
-    background-size: auto;
+    background-size: max;
     /* background: #ffffff;
     background-repeat: no-repeat; */
 }
 
 .header-content {
-     padding: 300px;
+     padding: 245px;
+}
+
+.banner-text {
+    font-size: 100px;
 }
 
 .landing-heading, .landing-description {
