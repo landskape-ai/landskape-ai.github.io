@@ -1,7 +1,7 @@
 +++
 bio = ""
 date = "2016-07-12T15:52:22+02:00"
-id = "Diganta"
+id = "diganta"
 interests = ["Deep Learning", "Computer Vision", "Optimization", "Mean Field Theory", "Algebraic Topology", "Group theory"]
 name = "Diganta Misra"
 portrait = "/portraits/portrait.jpg"
