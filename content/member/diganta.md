@@ -4,10 +4,11 @@ date = "2016-07-12T15:52:22+02:00"
 id = "diganta"
 interests = ["Deep Learning", "Computer Vision", "Optimization", "Mean Field Theory", "Algebraic Topology", "Group theory"]
 name = "Diganta Misra"
-portrait = "/portraits/portrait.jpg"
+portrait = "/portraits/diganta.jpg"
 short_bio = "Research Associate, LSR-HKU"
 short_name = "Diganta"
 title = "Diganta"
+personal_website = "https://digantamisra98.github.io/"
 
 [[social]]
     icon = "envelope"
