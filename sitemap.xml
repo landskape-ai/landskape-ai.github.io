@@ -3,63 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://landskapeai.github.io/</loc>
-    <lastmod>2016-07-12T16:50:58+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://landskapeai.github.io/post/</loc>
-    <lastmod>2016-07-12T16:50:58+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://landskapeai.github.io/post/post2/</loc>
-    <lastmod>2016-07-12T16:50:58+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://landskapeai.github.io/publication/learning/</loc>
-    <lastmod>2016-07-12T16:37:31+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://landskapeai.github.io/publication/</loc>
-    <lastmod>2016-07-12T16:37:31+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://landskapeai.github.io/project/deeplearning/</loc>
-    <lastmod>2016-07-12T16:10:22+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://landskapeai.github.io/project/</loc>
-    <lastmod>2016-07-12T16:10:22+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://landskapeai.github.io/project/widelearning/</loc>
-    <lastmod>2016-07-12T16:10:22+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://landskapeai.github.io/member/diganta/</loc>
+    <lastmod>2016-07-12T15:52:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://landskapeai.github.io/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://landskapeai.github.io/team/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://landskapeai.github.io/post/notebook/</loc>
-    <lastmod>2016-07-12T15:50:58+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://landskapeai.github.io/post/post1/</loc>
-    <lastmod>2016-07-12T15:50:58+02:00</lastmod>
   </url>
   
   <url>
@@ -87,19 +42,23 @@
   </url>
   
   <url>
-    <loc>https://landskapeai.github.io/vacancy/vacancy1/</loc>
-  </url>
-  
-  <url>
     <loc>https://landskapeai.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>https://landskapeai.github.io/tags/</loc>
+    <loc>https://landskapeai.github.io/publication/mish/</loc>
   </url>
   
   <url>
-    <loc>https://landskapeai.github.io/vacancy/</loc>
+    <loc>https://landskapeai.github.io/publication/triplet/</loc>
+  </url>
+  
+  <url>
+    <loc>https://landskapeai.github.io/papers/</loc>
+  </url>
+  
+  <url>
+    <loc>https://landskapeai.github.io/tags/</loc>
   </url>
   
 </urlset>
