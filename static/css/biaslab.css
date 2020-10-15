@@ -15,7 +15,7 @@ header{
     width:auto;
     height:auto;
     background-image: url("../img/header.jpg");
-    background-size: cover;
+    background-size: auto;
     /* background: #ffffff;
     background-repeat: no-repeat; */
 }
