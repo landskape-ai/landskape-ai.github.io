@@ -14,8 +14,10 @@ header{
     max-width: 100%;
     width:auto;
     height:auto;
-    background: #ffffff;
-    background-repeat: no-repeat;
+    background-image: url("../img/header.jpg");
+    background-size: cover;
+    /* background: #ffffff;
+    background-repeat: no-repeat; */
 }
 
 .header-content {
