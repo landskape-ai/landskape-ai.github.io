@@ -1,23 +1,23 @@
 +++
 bio = ""
 date = "2016-07-12T15:52:22+02:00"
-id = "member1"
-interests = ["Deep Learning", "Pattern Recognition", "Computer Science"]
-name = "Member Member"
+id = "Diganta"
+interests = ["Deep Learning", "Computer Vision", "Optimization", "Mean Field Theory", "Algebraic Topology", "Group theory"]
+name = "Diganta Misra"
 portrait = "/portraits/portrait.jpg"
-short_bio = "My short bio. I am Member Member."
-short_name = ""
-title = "Member 1"
+short_bio = "Research Associate, LSR-HKU"
+short_name = "Diganta"
+title = "Diganta"
 
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "mishradiganta91@gmail.com"
 
 [[social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/"
+    link = "https://twitter.com/DigantaMisra1"
 
 [[social]]
     icon = "google-scholar"
@@ -27,16 +27,16 @@ title = "Member 1"
 [[social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/"
+    link = "https://github.com/digantamisra98"
 
 [[education]]
-    course = "MSc in Computer Science"
-    institution = 'Harvard University'
-    year = 2004
+    course = "BTech in Electronics and Electrical Engineering"
+    institution = 'KIIT'
+    year = 2020
 
 [[organizations]]
-    name = "Harvard University"
-    role = "Full Professor"
+    name = "Laboratory of Space Research, Hong Kong University"
+    role = "Research Associate"
 
 +++
 You can write $\LaTeX$ and *Markdown* here.
