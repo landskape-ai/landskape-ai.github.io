@@ -41,9 +41,9 @@ personal_website = "https://digantamisra98.github.io/"
 
 +++
 
-> $\chi(x) = \tanh(\log(1+{e}^{x}))$
+> $\psi(x) = \tanh(\log(1+{e}^{x}))$
 
-This equation was the foundational point of my advent in deep learning. I'm extremely fascinated and curious of understanding the underlying theoretical mechanisms governing deep learning methods especially in the domain of Mean Field Theory, Non Convex Optimization and Non-Linear Dynamics. I am also inclined towards fundamental research in computer vision especially in the continously evolving sub-domains of Adversarial Robustness, Continual Learning and Sellf-Supervised Learning. 
+This [equation](https://arxiv.org/abs/1908.08681) was the foundational point of my advent in deep learning. I'm extremely fascinated and curious of understanding the underlying theoretical mechanisms governing deep learning methods especially in the domain of Mean Field Theory, Non Convex Optimization and Non-Linear Dynamics. I am also inclined towards fundamental research in computer vision especially in the continously evolving sub-domains of Adversarial Robustness, Continual Learning and Sellf-Supervised Learning. 
 
 I also like to read a lot of fiction and compose abstract artworks. Currently, I also hold the position of a Research Associate at the Laboratory of Space Research, Hong Kong University (LSR-HKU) where I am currently investigating into methods of connecting computer vision methods to understand planetary nebulae (PNe). 
 
