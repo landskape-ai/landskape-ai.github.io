@@ -37,13 +37,13 @@ tag = "tags"
     link = "/"
 
   [[params.sponsors]]
-    name = "NWO"
-    link = "http://www.stw.nl"
+    name = "NCSA"
+    link = "https://ncsa.illinois.edu"
     image = "/img/sponsors/NWO.png"
 
   [[params.sponsors]]
-    name = "GN Resound"
-    link = "http://www.resound.com/"
+    name = "OpenPOWER Foundation"
+    link = "https://linux.org"
     image = "/img/sponsors/GNResound.png"
 
   # Selected Publications section.
