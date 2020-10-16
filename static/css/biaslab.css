@@ -15,17 +15,17 @@ header{
     width:auto;
     height:auto;
     background-image: url("../img/header.jpg");
-    background-size: max;
+    background-size: flex;
     /* background: #ffffff;
     background-repeat: no-repeat; */
 }
 
 .header-content {
-     padding: 250px;
+     padding: flex;
 }
 
 .banner-text {
-    font-size: 100px;
+    font-size: flex;
 }
 
 .landing-heading, .landing-description {

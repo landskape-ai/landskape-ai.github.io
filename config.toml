@@ -39,12 +39,12 @@ tag = "tags"
   [[params.sponsors]]
     name = "NCSA"
     link = "https://ncsa.illinois.edu"
-    image = "/img/sponsors/NWO.png"
+    image = "/img/ncsa.png"
 
   [[params.sponsors]]
     name = "OpenPOWER Foundation"
-    link = "https://linux.org"
-    image = "/img/sponsors/GNResound.png"
+    link = "https://openpowerfoundation.org/"
+    image = "/img/openpower.png"
 
   # Selected Publications section.
   [params.publications_selected]
