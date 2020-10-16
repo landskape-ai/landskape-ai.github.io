@@ -15,6 +15,7 @@ url_pdf = "https://arxiv.org/pdf/2010.03045.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
+url_custom = [{name = "Cite", url = "https://github.com/LandskapeAI/triplet-attention#cite-our-work"}]
 
 [[authors]]
     name = "Diganta Misra"
