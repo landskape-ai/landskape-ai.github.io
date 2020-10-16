@@ -15,6 +15,7 @@ url_pdf = "https://www.bmvc2020-conference.com/assets/papers/0928.pdf"
 url_project = ""
 url_slides = ""
 url_video = "https://www.bmvc2020-conference.com/conference/papers/paper_0928.html"
+url_custom = [{name = "SOTA in Object Detection on COCO-testdev", url = "https://paperswithcode.com/sota/object-detection-on-coco"}]
 
 [[authors]]
     name = "Diganta Misra"
