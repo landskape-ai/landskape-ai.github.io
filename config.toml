@@ -29,8 +29,8 @@ tag = "tags"
   slogan_text = "a tiny research group on the edge of theoretical deep learning"
   custom_css = ["biaslab.css"]
   landing_heading = "Natural Artificial Intelligence"
-  landing_description = "Automating the development of novel signal processing and control systems through <span style=\"white-space: nowrap;\">neuro-inspired</span> <span style=\"white-space: nowrap;\">free-energy</span> minimizing agents"
-  positions_available = true
+  landing_description = "a tiny research group on the edge of theoretical deep learning"
+  positions_available = false
 
   [params.logo]
     image = "img/logo.png"
@@ -95,6 +95,11 @@ tag = "tags"
 
   # Navigation Links
   #   The weight parameter defines the order that the links will appear in.
+
+  [[menu.main]]
+    name = "About"
+    url = "/#about"
+    weight = 1
 
   [[menu.main]]
     name = "Projects"
