@@ -15,6 +15,7 @@ header{
     width:auto;
     height:auto;
     background-image: url("../img/header.jpg");
+    min-height: 50%;
     background-size: cover;
     /* background: #ffffff;
     background-repeat: no-repeat; */
@@ -143,6 +144,11 @@ header{
 .btn-pitch.btn-outline {
     color: #006199;
     border-color: #006199;
+}
+
+.btn-pitch.btn-outline-header {
+    color: #ffffff;
+    border-color: #ffffff;
 }
 
 * {
