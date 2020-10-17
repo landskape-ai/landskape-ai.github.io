@@ -15,14 +15,13 @@ header{
     width:auto;
     height:auto;
     background-image: url("../img/header.jpg");
-    min-height: 100%;
     background-size: cover;
     /* background: #ffffff;
     background-repeat: no-repeat; */
 }
 
 .banner-text {
-    font-size: 10vw;
+    font-size: 8vw;
 }
 
 .landing-heading, .landing-description {

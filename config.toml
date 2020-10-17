@@ -25,6 +25,8 @@ tag = "tags"
   email = ""
   address = ''
   slogan = "Landskape"
+  slogan_icon = "icon-spsbrats_logo"
+  slogan_text = "a tiny research group on the edge of theoretical deep learning"
   custom_css = ["biaslab.css", "form.css"]
   landing_heading = "Natural Artificial Intelligence"
   landing_description = "a tiny research group on the edge of theoretical deep learning"
@@ -46,11 +48,11 @@ tag = "tags"
 
   # About section.
   # Section will only be displayed if there are posts in `content/post/`.
-  [params.about]
-    title = "About Us"
-    subtitle = "Who we are and what we do"
-    text = "We aim to explore the theoretical aspects of deep learning to understand how and why neural networks work the way they do."
-    str_read_more = "Learn more"
+  # [params.about]
+  #  title = "About Us"
+  #  subtitle = "Who we are and what we do"
+  #  text = "We aim to explore the theoretical aspects of deep learning to understand how and why neural #networks work the way they do."
+  #  str_read_more = "Learn more"
 
   # Selected Publications section.
   [params.publications_selected]
