@@ -10,13 +10,13 @@ title = "Markdown ipsum"
 
 # Who we are 
 
-We are a small team of multi-disciplinary researchers who have a similar goal to explore the facets of theory underlining the abstraction of deep learning. Our team has cumulative experience in Graphics, Film Making, Hardware Optimization, Computer Vision, Software Engineering, Astrophysics and extensive knowledge in visualization, optimization and mathematics. 
+We are a small team of multi-disciplinary researchers who have a similar goal to explore the facets of theory underlining the abstraction of deep learning. Our team has cumulative experience in graphics, film making, hardware optimization, computer vision, software engineering, astrophysics and extensive knowledge in visualization, optimization and mathematics. 
 
 # What we do
 
 Our goal is to explore the theoretical avenues of deep learning which haven't been extensively discussed and try to connect the dots to have a more firm and concrete understanding of deep learning and the black box associated to it. 
 
-We are involved in inter-domain research in areas of Computer Vision and Deep Learning ranging from Continual Learning, Adversarial Defense, Attention Mechanisms, Non-Linear Dynamics, Efficient Network Design and more theoretical areas like Mean Field Theory and Non Convex Optimization. 
+We are involved in inter-domain research in areas of Computer Vision and Deep Learning ranging from continual learning, adversarial defense, attention mechanisms, non-linear dynamics, efficient network design and more theoretical areas like mean field theory and non convex optimization. 
 
 # What we believe in
 
