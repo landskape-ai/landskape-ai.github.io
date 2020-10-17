@@ -8,52 +8,16 @@ title = "Markdown ipsum"
     link = "/member1"
 +++
 
-# Sed extemplo conantur et Cnosia harundine lyra
+# Who we are 
 
-## Agros metitur venatibus catenis quippe honorem tuorum
+We are a small team of multi-disciplinary researchers who have a similar goal to explore the facets of theory underlining the abstraction of deep learning. Our team has cumulative experience in Graphics, Film Making, Hardware Optimization, Computer Vision, Software Engineering, Astrophysics and extensive knowledge in visualization, optimization and mathematics. 
 
-Lorem markdownum finemque prunaque longe et sunt. Sed super aulaea in Paridis
-noctisque cubile? Iacit coetus, vastatoremque dedit; Vidi magna, recurvatis
-copia. Quod sit; per cingo tamen Hyperionis si vacat **inclitus** instabat
-curaque arma saxea, naturaeque pondere quaeque aer!
+# What we do
 
-1. Agros apertum aliis dominaeque rapidus
-2. Prima nulla est
-3. Hortatibus voto
+Our goal is to explore the theoretical avenues of deep learning which haven't been extensively discussed and try to connect the dots to have a more firm and concrete understanding of deep learning and the black box associated to it. 
 
-## Anum istis praefertur est
+We are involved in inter-domain research in areas of Computer Vision and Deep Learning ranging from Continual Learning, Adversarial Defense, Attention Mechanisms, Non-Linear Dynamics, Efficient Network Design and more theoretical areas like Mean Field Theory and Non Convex Optimization. 
 
-Quaque coeptis lumina mea nuda dentes semine agitavit, caesique voluptas. Proque
-priori vultus est colle fuit manet manibusque Liber vulnus famulosque memorante
-dari. Aut quod ergo, oris simulasse. Ministros cogeret momordit aut tibi, posita
-non inhaesit sede vulnera sontes Phoebeos, faenilibus non rursus.
+# What we believe in
 
-- Nec nulli et gravidae dumque tempore et
-- Vituli adunca
-- Modo venit
-- Dixit virgineos vim non
-- Sed ferventi est tamen ut lumine fatorum
-- Latos in dare
-
-## Inhibente Euros
-
-Puppibus solo fecitque ardet quoniam **humanas**. *Nec* penates magno;
-Andromedan *in* cantus Dircen triste: diu volatu medicamen spectans mactatae non
-fraude. In taedia et parvoque movere.
-
-[Vix non ut](http://nona.net/quaerebatque-sanguis.html) inanes *extremo viribus
-sum* noctes et quibus senili [muros](http://www.tenuit.net/glandesvult.php).
-Concubitus pater et turba esse *pictam ad tellus* praevisos tulit fulvo, est
-rictu [Charybdis visa](http://saturnia.net/dea-inmanis), dat adventu pars. Per
-primo palluerat locorum volui insidiis quid; aeno pulvis infelix luna.
-Aequoribus Arcas exierat cremata nympha difficilis fugacem velit et putat,
-tonitruque per gratata abesse simul; si. Nam
-[unco](http://litem.org/confertquetimor.html) vultu, indignatus quid coronis
-ungula, passura iuvenem vultus qui divae?
-
-Forte esse ferentem ardua locus impete, sunt est et nescit quid Echion age
-aliquem? Insonat ardet temptat tonitruque Tartessia Nini adstupet cortice, et
-facibus merui muneris commissas quae **dum**. Honorem *avidus felicior* et nec
-agitatis officium grave positamque, umeris hanc dum Eurystheus, *mentem*,
-classem metuendus, sub. Membris saepe omnia; haec excipitur posita fusus
-obstantia boum confessis.
+We believe that artificial intelligence is extensively interlinked with art, mathematics, physics, neuroscience, however, current research trends have failed to connect the dots across the different foundational concepts. We believe with our combined knowledge, we can take massive stride in demystifying a lot of concepts that are shrouded in the abstraction of modern artificial intelligence. 
