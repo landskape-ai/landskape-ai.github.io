@@ -15,17 +15,20 @@ header{
     width:auto;
     height:auto;
     background-image: url("../img/header.jpg");
-    background-size: flex;
+    min-height: 100%;
+    background-size: cover;
+    vertical-align: middle;
     /* background: #ffffff;
     background-repeat: no-repeat; */
 }
 
-.header-content {
-     padding: flex;
+.header-content-inner {
+    vertical-align: middle;
 }
 
 .banner-text {
-    font-size: flex;
+    vertical-align: middle;
+    font-size: 100px;
 }
 
 .landing-heading, .landing-description {
