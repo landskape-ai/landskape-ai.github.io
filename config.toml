@@ -46,6 +46,14 @@ tag = "tags"
     link = "https://openpowerfoundation.org/"
     image = "/img/openpower.png"
 
+  # About section.
+  # Section will only be displayed if there are posts in `content/post/`.
+  [params.about]
+    title = "About Us"
+    subtitle = "Who we are and what we do"
+    text = "Some sample text that describes who you are and what you do."
+    str_read_more = "Learn more"
+
   # Selected Publications section.
   [params.publications_selected]
     detailed_list = true
@@ -60,7 +68,7 @@ tag = "tags"
     title = "Publications"
     subtitle = ""
     str_all = "More Publications"
-
+  
   # Posts section.
   # Section will only be displayed if there are posts in `content/post/`.
   [params.posts]

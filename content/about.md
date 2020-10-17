@@ -1,3 +1,13 @@
++++
+date = "2016-07-12T15:50:58+02:00"
+short_text = ""
+title = "Markdown ipsum"
+[[authors]]
+    name = "member1"
+    is_member = true
+    link = "/member1"
++++
+
 # Sed extemplo conantur et Cnosia harundine lyra
 
 ## Agros metitur venatibus catenis quippe honorem tuorum
