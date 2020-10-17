@@ -17,18 +17,12 @@ header{
     background-image: url("../img/header.jpg");
     min-height: 100%;
     background-size: cover;
-    vertical-align: middle;
     /* background: #ffffff;
     background-repeat: no-repeat; */
 }
 
-.header-content-inner {
-    vertical-align: middle;
-}
-
 .banner-text {
-    vertical-align: middle;
-    font-size: 100px;
+    font-size: 10vw;
 }
 
 .landing-heading, .landing-description {
