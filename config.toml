@@ -51,7 +51,7 @@ tag = "tags"
   [params.about]
     title = "About Us"
     subtitle = "Who we are and what we do"
-    text = "Some sample text that describes who you are and what you do."
+    text = "We aim to explore the theoretical aspects of deep learning to understand how and why neural networks work the way they do."
     str_read_more = "Learn more"
 
   # Selected Publications section.
