@@ -30,4 +30,6 @@ title = "Trikay"
 
 +++
 
-I'm a senior at the Indian Institute of Technology, Guwahati, majoring in Mathematics and Computing. I'm heavily inclined to the theoretical aspects of deep learning and the math behind the algorithms. I have previously worked in the fields of Data-Driven Discovery of Integral-Differential Equations, Non-Convex Optimization and Attention Mechanisms in Vision. I'm currently working on the application of Reinforcement Learning in a medical setting, along with more fundamental research topics such as Activation Functions and Optimization methods.
+I'm a senior at the Indian Institute of Technology, Guwahati, majoring in Mathematics and Computing. I'm heavily inclined towards the theoretical aspects of deep learning and the math behind the algorithms. I have previously worked in the fields of Data-Driven Discovery of Integral-Differential Equations, Non-Convex Optimization and Attention Mechanisms in Vision. I'm currently working on the application of Reinforcement Learning in a medical setting, along with more fundamental research topics such as Activation Functions and Optimization methods.
+
+In my free time you would catch me either playing or watching football or reading up on detailed post-match analyses on twitter.
