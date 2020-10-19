@@ -24,7 +24,8 @@ url_custom = [{name = "Cite", url = "https://github.com/LandskapeAI/triplet-atte
     
 [[authors]]
     name = "Trikay Nalamada"
-    is_member = false
+    id = "trikay"
+    is_member = true
 
 [[authors]]
     name = "Ajay Uppili Arasanipalai"
