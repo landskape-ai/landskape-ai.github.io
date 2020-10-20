@@ -30,3 +30,6 @@ title = "Sanghun"
     role = "Graduate Student"
 
 +++
+I'm a graduate student at DAVIAN Lab, KAIST. I have been working on a Semantic Segmentation task for the perception pipeline in computer vision. Before I joined this DAVIAN Lab, I had worked at BearRobotics, Inc. as a robotics engineer in Silicon Valley. I'm also pretty interested in Reinforcement Learning in motion planning. 
+
+Besides research, I like playing badminton and PS4 games in my free time.
