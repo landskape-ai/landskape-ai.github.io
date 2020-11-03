@@ -1,6 +1,6 @@
 +++
 name = "Ajay Uppili Arasanipalai"
-short_bio = "Member of the human race"
+short_bio = ""
 id = "ajay"
 portrait = "/portraits/ajay.jpg"
 interests = ["Deep Learning", "Natural Language Processing"]
@@ -27,6 +27,10 @@ sort_position = 1
     course = "BS in Physics (Engineering)"
     institution = 'University of Illinois at Urbana-Champaign'
     year = 2020
+
+[[organizations]]
+    name = "University of Illinois at Urbana-Champaign"
+    role = "Student"
 
 +++
 
