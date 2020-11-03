@@ -6,6 +6,7 @@ portrait = "/portraits/ajay.jpg"
 interests = ["Deep Learning", "Natural Language Processing"]
 personal_website = "https://iyaja.github.io"
 sort_position = 1
+title = "Ajay"
 
 [[social]]
     icon = "envelope"
