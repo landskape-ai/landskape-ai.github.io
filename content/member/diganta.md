@@ -9,7 +9,6 @@ short_bio = ""
 short_name = "Diganta"
 title = "Diganta"
 personal_website = "https://digantamisra98.github.io/"
-cv_link = "https://drive.google.com/file/d/1KpcZUs0ihXt66k7PGLq8nmPy8I4fPn_E/view?usp=sharing"
 
 [[social]]
     icon = "envelope"
