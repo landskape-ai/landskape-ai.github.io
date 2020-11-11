@@ -9,6 +9,7 @@ short_bio = ""
 short_name = "Diganta"
 title = "Diganta"
 personal_website = "https://digantamisra98.github.io/"
+curriculum_vitae = "https://digantamisra98.github.io/"
 
 [[social]]
     icon = "envelope"
@@ -29,6 +30,11 @@ personal_website = "https://digantamisra98.github.io/"
     icon = "github"
     icon_pack = "fa"
     link = "https://github.com/digantamisra98"
+
+[[social]]
+    icon = "cv"
+    icon_pack = "ai"
+    link = "https://drive.google.com/file/d/16XO6B-UmNZv0oMVKKVuAnX78SqS92pxK/view?usp=sharing"
 
 [[education]]
     course = "BTech in Electronics and Electrical Engineering"
