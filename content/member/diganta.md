@@ -33,7 +33,7 @@ cv_link = "https://drive.google.com/file/d/1KpcZUs0ihXt66k7PGLq8nmPy8I4fPn_E/vie
 
 [[social]]
     icon = "cv"
-    icon_pack = ""
+    icon_pack = "ai"
     link = "https://drive.google.com/file/d/1KpcZUs0ihXt66k7PGLq8nmPy8I4fPn_E/view?usp=sharing"
 
 [[education]]
@@ -55,4 +55,4 @@ I also like to read a lot of fiction and compose abstract artworks. Currently, I
 
 I founded Landskape in late 2019 with the vision of gathering a diverse and proficient team to investigate more into deep learning theory and make groundbreaking research. 
 
-
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
