@@ -24,7 +24,7 @@ curriculum_vitae = "https://digantamisra98.github.io/"
 [[social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.nl/"
+    link = "https://scholar.google.nl/citations?hl=en&user=LwiJwNYAAAAJ"
 
 [[social]]
     icon = "github"
