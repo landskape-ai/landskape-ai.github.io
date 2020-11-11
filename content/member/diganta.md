@@ -9,7 +9,7 @@ short_bio = ""
 short_name = "Diganta"
 title = "Diganta"
 personal_website = "https://digantamisra98.github.io/"
-curriculum_vitae = "https://drive.google.com/file/d/16XO6B-UmNZv0oMVKKVuAnX78SqS92pxK/view?usp=sharing"
+cv_link = "https://drive.google.com/file/d/16XO6B-UmNZv0oMVKKVuAnX78SqS92pxK/view?usp=sharing"
 
 [[social]]
     icon = "envelope"
@@ -33,7 +33,7 @@ curriculum_vitae = "https://drive.google.com/file/d/16XO6B-UmNZv0oMVKKVuAnX78SqS
 
 [[social]]
     icon = "cv"
-    icon_pack = "ai"
+    icon_pack = ""
     link = "https://drive.google.com/file/d/16XO6B-UmNZv0oMVKKVuAnX78SqS92pxK/view?usp=sharing"
 
 [[education]]
