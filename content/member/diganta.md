@@ -9,7 +9,7 @@ short_bio = ""
 short_name = "Diganta"
 title = "Diganta"
 personal_website = "https://digantamisra98.github.io/"
-cv_link = "https://drive.google.com/file/d/16XO6B-UmNZv0oMVKKVuAnX78SqS92pxK/view?usp=sharing"
+cv_link = "https://drive.google.com/file/d/1KpcZUs0ihXt66k7PGLq8nmPy8I4fPn_E/view?usp=sharing"
 
 [[social]]
     icon = "envelope"
@@ -34,7 +34,7 @@ cv_link = "https://drive.google.com/file/d/16XO6B-UmNZv0oMVKKVuAnX78SqS92pxK/vie
 [[social]]
     icon = "cv"
     icon_pack = ""
-    link = "https://drive.google.com/file/d/16XO6B-UmNZv0oMVKKVuAnX78SqS92pxK/view?usp=sharing"
+    link = "https://drive.google.com/file/d/1KpcZUs0ihXt66k7PGLq8nmPy8I4fPn_E/view?usp=sharing"
 
 [[education]]
     course = "BTech in Electronics and Electrical Engineering"
