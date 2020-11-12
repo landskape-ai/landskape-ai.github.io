@@ -13,7 +13,7 @@ personal_website = "https://digantamisra98.github.io/"
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mishradiganta91@gmail.com"
+    link = "mailto://mishradiganta91@gmail.com"
 
 [[social]]
     icon = "twitter"
