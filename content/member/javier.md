@@ -13,7 +13,7 @@ personal_website = "https://ideami.com/"
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "ideami@ideami.com"
+    link = "mailto://ideami@ideami.com"
 
 [[social]]
     icon = "twitter"

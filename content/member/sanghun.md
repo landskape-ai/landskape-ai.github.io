@@ -13,7 +13,7 @@ title = "Sanghun"
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "sanghun.jung13@gmail.com"
+    link = "mailto://sanghun.jung13@gmail.com"
 
 [[social]]
     icon = "github"

@@ -12,7 +12,7 @@ title = "Trikay"
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "nalamada.trikay@gmail.com"
+    link = "mailto://nalamada.trikay@gmail.com"
 
 [[social]]
     icon = "google-scholar"

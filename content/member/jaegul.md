@@ -13,7 +13,7 @@ personal_website = "https://sites.google.com/site/jaegulchoo/"
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "jchoo@kaist.ac.kr"
+    link = "mailto://jchoo@kaist.ac.kr"
 
 [[social]]
     icon = "twitter"
