@@ -46,6 +46,18 @@ tag = "tags"
     link = "https://openpowerfoundation.org/"
     image = "/img/openpower.png"
 
+  [[params.sponsors]]
+    name = "DeepWrex"
+    link = "https://deepwrex.com"
+    image = "/img/deepwrex.png"
+
+  [[params.sponsors]]
+    name = "Continual AI"
+    link = "https://www.continualai.org"
+    image = "/img/continualai.png"
+
+
+
   # About section.
   # Section will only be displayed if there are posts in `content/post/`.
   # [params.about]
