@@ -36,6 +36,11 @@ tag = "tags"
     image = "img/logo.png"
     link = "/"
 
+  [[params.collaborators]]
+    name = "Continual AI"
+    link = "https://www.continualai.org"
+    image = "/img/continualai.png"
+
   [[params.sponsors]]
     name = "NCSA"
     link = "https://ncsa.illinois.edu"
@@ -50,11 +55,6 @@ tag = "tags"
     name = "DeepWrex"
     link = "https://deepwrex.com"
     image = "/img/deepwrex.png"
-
-  [[params.sponsors]]
-    name = "Continual AI"
-    link = "https://www.continualai.org"
-    image = "/img/continualai.png"
 
 
 
