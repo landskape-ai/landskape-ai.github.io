@@ -2,7 +2,7 @@ publishdir = "public"
 static = "/static"
 builddrafts = false
 # Replace this with your website URL
-baseurl = "https://landskapeai.github.io"
+baseurl = "https://landskapeai.github.io/"
 canonifyurls = true
 theme = "academic-group"
 title = "Landskape AI"
