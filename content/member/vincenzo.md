@@ -1,7 +1,7 @@
 +++
 name = "Vincenzo Lomonaco"
 short_bio = ""
-id = "ajay"
+id = "vincenzo"
 portrait = "/portraits/vincenzo.jpg"
 personal_website = "https://www.vincenzolomonaco.com/"
 sort_position = 1
