@@ -2,11 +2,11 @@
 name = "Vincenzo Lomonaco"
 short_bio = ""
 id = "vincenzo"
+interests = ["Continual Learning", "Deep Learning", "Artificial Intelligence"]
 portrait = "/portraits/vincenzo.jpg"
 personal_website = "https://www.vincenzolomonaco.com/"
 sort_position = 1
 title = "Vincenzo"
-
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
