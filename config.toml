@@ -41,6 +41,11 @@ tag = "tags"
     link = "https://www.continualai.org"
     image = "/img/continualai.png"
 
+  [[params.collaborators]]
+    name = "Weights & Biases"
+    link = "https://www.wandb.com/"
+    image = "/img/wandb_animation.gif"
+
   [[params.sponsors]]
     name = "NCSA"
     link = "https://ncsa.illinois.edu"
