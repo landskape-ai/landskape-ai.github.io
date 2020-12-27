@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Landskape AI</title>
+    <link>https://landskapeai.github.io/project/</link>
+    <description>Recent content in Projects on Landskape AI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; Landskape AI, 2020 </copyright><atom:link href="https://landskapeai.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://landskapeai.github.io/project/sample/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://landskapeai.github.io/project/sample/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
