@@ -35,16 +35,19 @@ tag = "tags"
   [params.logo]
     image = "img/logo.png"
     link = "/"
+    height = "50%"
 
   [[params.collaborators]]
     name = "Continual AI"
     link = "https://www.continualai.org"
     image = "/img/continualai.png"
+    
 
   [[params.collaborators]]
     name = "Weights & Biases"
     link = "https://www.wandb.com/"
     image = "/img/wandb_animation.gif"
+    size = "100"
 
   [[params.sponsors]]
     name = "NCSA"
@@ -60,6 +63,7 @@ tag = "tags"
     name = "DeepWrex"
     link = "https://deepwrex.com"
     image = "/img/deepwrex.png"
+    size = "150"
 
 
 
