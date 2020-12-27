@@ -1,5 +1,6 @@
 install-theme:
-	git clone https://github.com/LandskapeAI/academic-group.git ./themes/academic-group;
+	# git clone https://github.com/LandskapeAI/academic-group.git ./themes/academic-group;
+	git submodule update --init --recursive
 update-theme:
 	cd ./themes/academic-group; git pull
 build-website:
