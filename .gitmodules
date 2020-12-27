@@ -1,0 +1,3 @@
+[submodule "themes/academic-group"]
+	path = themes/academic-group
+	url = git@github.com:LandskapeAI/academic-group.git
