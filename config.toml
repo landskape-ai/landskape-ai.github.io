@@ -35,7 +35,7 @@ tag = "tags"
   [params.logo]
     image = "img/logo.png"
     link = "/"
-    height = "50%"
+    size = "20%"
 
   [[params.collaborators]]
     name = "Continual AI"
