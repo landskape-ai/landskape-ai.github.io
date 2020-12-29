@@ -7,11 +7,38 @@
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; Landskape AI, 2020 </copyright><atom:link href="https://landskapeai.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Frequency domain is true home</title>
+      <link>https://landskapeai.github.io/project/spectral/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://landskapeai.github.io/project/spectral/</guid>
+      <description>Coming soon</description>
+    </item>
+    
+    <item>
       <title>Robustness-Stabillity-Plasticity Dilemma</title>
       <link>https://landskapeai.github.io/project/robustness/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://landskapeai.github.io/project/robustness/</guid>
+      <description>Coming soon</description>
+    </item>
+    
+    <item>
+      <title>Solving annotation labour for Semantic Segmentation using Self Supervised Learning</title>
+      <link>https://landskapeai.github.io/project/ssl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://landskapeai.github.io/project/ssl/</guid>
+      <description>Coming soon</description>
+    </item>
+    
+    <item>
+      <title>Unlearning to learn</title>
+      <link>https://landskapeai.github.io/project/unlearning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://landskapeai.github.io/project/unlearning/</guid>
       <description>Coming soon</description>
     </item>
     
