@@ -1,20 +1,20 @@
 +++
+title = "Robustness-Stabillity-Plasticity Dilemma"
 description = "Robustness-Stabillity-Plasticity Dilemma"
 short_description = ""
 project_id = "CL13x"
-image = "/robust.jpg"
+picture = "projects/robust.jpg"
 external_link = ""
+participants_block_position = "down"
 include_participants_portraits = true
 sort_position = 1
 
 [[participants]]
     name = "Diganta Misra"
-    is_member = true
     id = "diganta"
 
 [[participants]]
     name = "Himanshu Arora"
-    is_member = true
     id = "himanshu"
 
 [[participants]]
@@ -24,7 +24,8 @@ sort_position = 1
 
 [[participants]]
     name = "Vincenzo Lomonaco"
-    is_member = true
     id = "vincenzo"
 
 +++
+
+Lorem ipsum
