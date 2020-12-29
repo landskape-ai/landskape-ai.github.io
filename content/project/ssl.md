@@ -1,4 +1,5 @@
 +++
+date = "2020-12-29"
 title = "Solving annotation labour for Semantic Segmentation using Self Supervised Learning"
 description = "We propose a novel SSL based method to improve current standards in semantic segmentation while reducing the requirement of manual annotation."
 short_description = ""

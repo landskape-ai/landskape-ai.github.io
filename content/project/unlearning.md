@@ -1,4 +1,5 @@
 +++
+date = "2020-12-29"
 title = "Unlearning to learn"
 description = "To achieve optimal lifelong learning without heavy retraining of large models, we propose a novel approach of unlearning aspects of previous trained on data."
 short_description = ""
