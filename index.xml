@@ -6,7 +6,43 @@
     <description>Recent content on Landskape AI</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; Landskape AI, 2020 </copyright>
-    <lastBuildDate>Mon, 02 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://landskapeai.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://landskapeai.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Frequency domain is true home</title>
+      <link>https://landskapeai.github.io/project/spectral/</link>
+      <pubDate>Tue, 29 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://landskapeai.github.io/project/spectral/</guid>
+      <description>Coming soon</description>
+    </item>
+    
+    <item>
+      <title>Robustness-Stabillity-Plasticity Dilemma</title>
+      <link>https://landskapeai.github.io/project/robustness/</link>
+      <pubDate>Tue, 29 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://landskapeai.github.io/project/robustness/</guid>
+      <description>Coming soon</description>
+    </item>
+    
+    <item>
+      <title>Solving annotation labour for Semantic Segmentation using Self Supervised Learning</title>
+      <link>https://landskapeai.github.io/project/ssl/</link>
+      <pubDate>Tue, 29 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://landskapeai.github.io/project/ssl/</guid>
+      <description>Coming soon</description>
+    </item>
+    
+    <item>
+      <title>Unlearning to learn</title>
+      <link>https://landskapeai.github.io/project/unlearning/</link>
+      <pubDate>Tue, 29 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://landskapeai.github.io/project/unlearning/</guid>
+      <description>Coming soon</description>
+    </item>
+    
     <item>
       <title>Rotate to Attend: Convolutional Triplet Attention Module</title>
       <link>https://landskapeai.github.io/publication/triplet/</link>
@@ -116,42 +152,6 @@ What we do Our goal is to explore the theoretical avenues of deep learning which
       
       <guid>https://landskapeai.github.io/member/ajay/</guid>
       <description>Ajay Uppili Arasanipalai is a student at the University of Illinois at Urbana-Champaign. In 2019, He achieved state of the art results on the Stanford DAWNBench competition, where the goal is to reduce the time and cost to train convolutional networks. Currently, Ajay is working with the BH PIRE group on building models for physical parameter extraction from black hole images obtained from general relativity simulations. He is now co-authoring a book on applied natural language processing with transformers that will be published by O’Reilly Media in summer 2021.</description>
-    </item>
-    
-    <item>
-      <title>Frequency domain is true home</title>
-      <link>https://landskapeai.github.io/project/spectral/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://landskapeai.github.io/project/spectral/</guid>
-      <description>Coming soon</description>
-    </item>
-    
-    <item>
-      <title>Robustness-Stabillity-Plasticity Dilemma</title>
-      <link>https://landskapeai.github.io/project/robustness/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://landskapeai.github.io/project/robustness/</guid>
-      <description>Coming soon</description>
-    </item>
-    
-    <item>
-      <title>Solving annotation labour for Semantic Segmentation using Self Supervised Learning</title>
-      <link>https://landskapeai.github.io/project/ssl/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://landskapeai.github.io/project/ssl/</guid>
-      <description>Coming soon</description>
-    </item>
-    
-    <item>
-      <title>Unlearning to learn</title>
-      <link>https://landskapeai.github.io/project/unlearning/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://landskapeai.github.io/project/unlearning/</guid>
-      <description>Coming soon</description>
     </item>
     
     <item>
