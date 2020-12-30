@@ -130,10 +130,10 @@ tag = "tags"
   # Navigation Links
   #   The weight parameter defines the order that the links will appear in.
 
-  [[menu.main]]
-    name = "About"
-    url = "/#about"
-    weight = 1
+  # [[menu.main]]
+  #  name = "About"
+  #  url = "/#about"
+  #  weight = 1
 
   [[menu.main]]
     name = "Projects"
