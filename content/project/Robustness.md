@@ -1,6 +1,6 @@
 +++
 date = "2020-12-29"
-title = "Robustness-Stability-Plasticity Dilemma"
+title = "Robustness-Stability-Plasticity Trilemma"
 description = "The concept of catastrophic forgetting has been the foundation of continual learning, however, this phenomenon is only attributed to the generalization capabilities of the neural network. We hypothesize that there is a strong trigonal relationship between Catastrophic Forgetting, Generalization and Robustness."
 short_description = ""
 project_id = "CL13x"
