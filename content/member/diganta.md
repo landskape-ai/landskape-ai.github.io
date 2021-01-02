@@ -9,6 +9,7 @@ short_bio = ""
 short_name = "Diganta"
 title = "Diganta"
 personal_website = "https://digantamisra98.github.io/"
+sort_position = 1
 
 [[social]]
     icon = "envelope"

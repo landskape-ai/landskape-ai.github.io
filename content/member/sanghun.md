@@ -8,6 +8,7 @@ portrait = "/portraits/sanghun.jpg"
 short_bio = ""
 short_name = "Sanghun"
 title = "Sanghun"
+sort_position = 8
 
 
 [[social]]

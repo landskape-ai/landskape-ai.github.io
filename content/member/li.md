@@ -9,6 +9,7 @@ short_bio = ""
 short_name = "Duo"
 title = "Duo"
 personal_website = "http://www.cs.ust.hk/~dlibh/"
+sort_position = 9
 
 [[social]]
     icon = "envelope"

@@ -8,6 +8,7 @@ portrait = "/portraits/trikay.jpg"
 short_bio = ""
 short_name = "Trikay"
 title = "Trikay"
+sort_position = 3
 
 [[social]]
     icon = "envelope"

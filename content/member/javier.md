@@ -9,6 +9,7 @@ short_bio = ""
 short_name = "Javier"
 title = "Javier"
 personal_website = "https://ideami.com/"
+sort_position = 5
 
 [[social]]
     icon = "envelope"

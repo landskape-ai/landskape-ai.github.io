@@ -8,6 +8,7 @@ portrait = "/portraits/himanshu.jpg"
 short_bio = ""
 short_name = "Himanshu"
 title = "Himanshu"
+sort_position = 2
 
 [[social]]
     icon = "envelope"

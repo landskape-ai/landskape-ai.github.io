@@ -7,6 +7,8 @@ portrait = "/portraits/vincenzo.jpg"
 personal_website = "https://www.vincenzolomonaco.com/"
 sort_position = 1
 title = "Vincenzo"
+sort_position = 10
+
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
