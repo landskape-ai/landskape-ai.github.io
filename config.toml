@@ -59,13 +59,6 @@ tag = "tags"
     link = "https://openpowerfoundation.org/"
     image = "/img/openpower.png"
 
-  [[params.sponsors]]
-    name = "DeepWrex"
-    link = "https://deepwrex.com"
-    image = "/img/deepwrex.png"
-    size = "150"
-
-
 
   # About section.
   # Section will only be displayed if there are posts in `content/post/`.
