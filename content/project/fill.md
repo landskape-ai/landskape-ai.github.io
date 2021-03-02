@@ -1,5 +1,5 @@
 +++
-date = "2021-03-03"
+date = "2021-03-02"
 title = "Fill in the blanks"
 description = "The goal is to given a semantic input like image and a query sentence containing blanks representing either objects or action, try to fill in those blanks."
 short_description = ""

@@ -1,5 +1,5 @@
 +++
-date = "2021-03-03"
+date = "2021-03-02"
 title = "Factorized Super Resolution"
 description = "We propose a novel blind super resolution pipeline aimed at improving consistency and reducing artifacts generation."
 short_description = ""
