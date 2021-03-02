@@ -11,10 +11,10 @@ selected = false
 title = "Rotate to Attend: Convolutional Triplet Attention Module"
 url_code = "https://github.com/LandskapeAI/triplet-attention"
 url_dataset = ""
-url_pdf = "https://arxiv.org/pdf/2010.03045.pdf"
+url_pdf = "https://openaccess.thecvf.com/content/WACV2021/papers/Misra_Rotate_to_Attend_Convolutional_Triplet_Attention_Module_WACV_2021_paper.pdf"
 url_project = ""
-url_slides = ""
-url_video = ""
+url_slides = "https://landskapeai.github.io/slides/triplet/#/"
+url_video = "https://youtu.be/ZW9_2bNF1zo"
 url_custom = [{name = "Cite", url = "https://github.com/LandskapeAI/triplet-attention#cite-our-work"}]
 
 [[authors]]
