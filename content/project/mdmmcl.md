@@ -1,5 +1,5 @@
 +++
-date = "2020-12-29"
+date = "2021-03-03"
 title = "Multi Modal Multi Domain Continual Learning"
 description = "We explore the regime of supporting multi-domain based multi-modal continial learning frameworks along with proving their robustness to domain targetted/ mode targetted attacks."
 short_description = ""

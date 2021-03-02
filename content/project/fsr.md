@@ -1,10 +1,10 @@
 +++
-date = "2020-12-29"
+date = "2021-03-03"
 title = "Factorized Super Resolution"
 description = "We propose a novel blind super resolution pipeline aimed at improving consistency and reducing artifacts generation."
 short_description = ""
-project_id = "FSL15x"
-picture = "projects/ssl.jpg"
+project_id = "FSR15x"
+picture = "projects/fsr.jpg"
 external_link = ""
 participants_block_position = "down"
 include_participants_portraits = true
