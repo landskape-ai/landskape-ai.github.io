@@ -1,7 +1,7 @@
 +++
 date = "2021-03-02"
 title = "Factorized Super Resolution"
-description = "We propose a novel blind super resolution pipeline aimed at improving consistency and reducing artifacts generation."
+description = "We propose a novel blind super resolution pipeline aimed at improving consistency and reducing artefacts generation."
 short_description = ""
 project_id = "FSR15x"
 picture = "projects/fsr.jpg"
