@@ -17,11 +17,6 @@ sort_position = 1
     link = "mailto://mishradiganta91@gmail.com"
 
 [[social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "https://twitter.com/DigantaMisra1"
-
-[[social]]
     icon = "google-scholar"
     icon_pack = "ai"
     link = "https://scholar.google.nl/citations?hl=en&user=LwiJwNYAAAAJ"
