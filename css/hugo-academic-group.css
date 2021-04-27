@@ -852,6 +852,7 @@ nav#navbar-main li {
     .navbar-brand {
         padding-top: 0px;
         display:inline;
+        margin-bottom: 12px;
     }
 
     .navbar-brand a.logo {
