@@ -36,6 +36,11 @@ sort_position = 1
     institution = 'Kalinga Institute of Industrial Technology'
     year = 2020
 
+[[education]]
+    course = "Masters of Science in Computer Science (Specialization: Machine Learning)"
+    institution = 'Montreal Institute of Learning Algorithms (MILA) and UdeM'
+    year = 2023
+
 [[organizations]]
     name = "Weights & Biases"
     role = "Machine Learning Engineer"
