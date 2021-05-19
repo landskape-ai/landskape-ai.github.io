@@ -81,15 +81,6 @@
     </item>
     
     <item>
-      <title>Duo</title>
-      <link>https://landskapeai.github.io/member/li/</link>
-      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
-      
-      <guid>https://landskapeai.github.io/member/li/</guid>
-      <description>I am currently a second-year MPhil student in the Department of Computer Science and Engineering, The Hong Kong University of Science and Technology, under the supervision of Prof. Qifeng Chen and Prof. Tong Zhang. Before that, I received my B.E. degree from the Department of Automation, Tsinghua University in 2019. I have spent time at Intel Labs China and SenseTime Research.</description>
-    </item>
-    
-    <item>
       <title>Federico</title>
       <link>https://landskapeai.github.io/member/federico/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
@@ -151,15 +142,6 @@ What we do Our goal is to explore the theoretical avenues of deep learning which
       
       <guid>https://landskapeai.github.io/member/ajay/</guid>
       <description>Ajay Uppili Arasanipalai is a student at the University of Illinois at Urbana-Champaign. In 2019, He achieved state of the art results on the Stanford DAWNBench competition, where the goal is to reduce the time and cost to train convolutional networks. Currently, Ajay is working with the BH PIRE group on building models for physical parameter extraction from black hole images obtained from general relativity simulations. He is now co-authoring a book on applied natural language processing with transformers that will be published by O’Reilly Media in summer 2021.</description>
-    </item>
-    
-    <item>
-      <title>Vincenzo</title>
-      <link>https://landskapeai.github.io/member/vincenzo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://landskapeai.github.io/member/vincenzo/</guid>
-      <description>I’m a Postdoctoral Researcher at the University of Bologna, Italy (supervisor: Davide Maltoni) and Co-Founding President of ContinualAI, a non-profit research organization and the largest open community on Continual Learning for AI. Currently, I’m also a Co-founder and Board Member of AI for People and Director of the ContinualAI Lab. I obtained my PhD at UniBo in early 2019 with a dissertation titled “Continual Learning with Deep Architectures”: a natural continuation of my master’s thesis on bio-inspired deep architectures I started in 2014.</description>
     </item>
     
   </channel>
