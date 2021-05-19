@@ -19,10 +19,6 @@ sort_position = 1
     id = "himanshu"
 
 [[participants]]
-    name = "Sanghun Jung"
-    id = "sanghun"
-
-[[participants]]
     name = "Jaegul Choo"
     id = "jaegul"
 
