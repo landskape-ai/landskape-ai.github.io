@@ -6,7 +6,16 @@
     <description>Recent content on Landskape AI</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; Landskape AI, 2020 </copyright>
-    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://landskapeai.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://landskapeai.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ensemble vs Dense Networks: An Empirical Study</title>
+      <link>https://landskapeai.github.io/project/ensemble/</link>
+      <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://landskapeai.github.io/project/ensemble/</guid>
+      <description>Coming soon</description>
+    </item>
+    
     <item>
       <title>Sparse Domain Adaptation using Incremental Learning</title>
       <link>https://landskapeai.github.io/project/dacl/</link>
