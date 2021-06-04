@@ -33,7 +33,7 @@ sort_position = 2
 [[education]]
     course = "M.Sc. in Machine Learning"
     institution = 'Mila, University of Montreal'
-    year = 2020
+    year = 2021
     
 [[education]]
     course = "B.Tech. in Computer Science"
@@ -41,7 +41,7 @@ sort_position = 2
     year = 2015
    
 [[organizations]]
-    name = "Mila, University of Montreal"
-    role = "Graduate Student"
+    name = "Workday"
+    role = "Research Engineer"
 +++
-I am a graduate student in Machine Learning at the Montréal Institute for Learning Algorithms (Mila). Before joining Mila, I worked as a Team Lead at Accenture AI, focusing on Natural Language Processing. I have recently acquired a keen research interest in Computer Vision and Self-Supervised Learning. I am currently working on the applications of Image-Based Visual Servoing for open control scenarios such as intersection navigation in Autonomous Vehicles.
+I am a Research Engineer at Workday. Previously, I was a graduate student in Machine Learning at the Montréal Institute for Learning Algorithms (Mila). Before joining Mila, I worked as a Team Lead at Accenture AI, focusing on Natural Language Processing. I have recently acquired a keen research interest in Computer Vision and Self-Supervised Learning. I am currently working on the applications of Image-Based Visual Servoing for open control scenarios such as intersection navigation in Autonomous Vehicles. 

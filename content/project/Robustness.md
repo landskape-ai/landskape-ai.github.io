@@ -22,6 +22,11 @@ sort_position = 2
     name = "Norman Di Palo"
     is_member = false
     id = ""
+
+[[participants]]
+    name = "Mukund Varma T"
+    is_member = false
+    id = ""
 +++
 
 *Coming soon*
