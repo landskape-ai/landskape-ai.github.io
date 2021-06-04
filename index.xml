@@ -2,163 +2,163 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Landskape AI</title>
-    <link>https://landskapeai.github.io/</link>
+    <link>https://landskape-ai.github.io/</link>
     <description>Recent content on Landskape AI</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; Landskape AI, 2020 </copyright>
-    <lastBuildDate>Fri, 04 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://landskapeai.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://landskape-ai.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ensemble vs Dense Networks: An Empirical Study</title>
-      <link>https://landskapeai.github.io/project/ensemble/</link>
+      <link>https://landskape-ai.github.io/project/ensemble/</link>
       <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://landskapeai.github.io/project/ensemble/</guid>
+      <guid>https://landskape-ai.github.io/project/ensemble/</guid>
       <description>Coming soon</description>
     </item>
     
     <item>
       <title>Sparse Domain Adaptation using Incremental Learning</title>
-      <link>https://landskapeai.github.io/project/dacl/</link>
+      <link>https://landskape-ai.github.io/project/dacl/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://landskapeai.github.io/project/dacl/</guid>
+      <guid>https://landskape-ai.github.io/project/dacl/</guid>
       <description>Coming soon</description>
     </item>
     
     <item>
       <title>Multi Modal Multi Domain Continual Learning</title>
-      <link>https://landskapeai.github.io/project/mdmmcl/</link>
+      <link>https://landskape-ai.github.io/project/mdmmcl/</link>
       <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://landskapeai.github.io/project/mdmmcl/</guid>
+      <guid>https://landskape-ai.github.io/project/mdmmcl/</guid>
       <description>Coming soon</description>
     </item>
     
     <item>
       <title>Factorized Super Resolution</title>
-      <link>https://landskapeai.github.io/project/fsr/</link>
+      <link>https://landskape-ai.github.io/project/fsr/</link>
       <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://landskapeai.github.io/project/fsr/</guid>
+      <guid>https://landskape-ai.github.io/project/fsr/</guid>
       <description>Coming soon</description>
     </item>
     
     <item>
       <title>Robustness-Stability-Plasticity Trilemma</title>
-      <link>https://landskapeai.github.io/project/robustness/</link>
+      <link>https://landskape-ai.github.io/project/robustness/</link>
       <pubDate>Tue, 29 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://landskapeai.github.io/project/robustness/</guid>
+      <guid>https://landskape-ai.github.io/project/robustness/</guid>
       <description>Coming soon</description>
     </item>
     
     <item>
       <title>Unlearning to learn</title>
-      <link>https://landskapeai.github.io/project/unlearning/</link>
+      <link>https://landskape-ai.github.io/project/unlearning/</link>
       <pubDate>Tue, 29 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://landskapeai.github.io/project/unlearning/</guid>
+      <guid>https://landskape-ai.github.io/project/unlearning/</guid>
       <description>Coming soon</description>
     </item>
     
     <item>
       <title>Rotate to Attend: Convolutional Triplet Attention Module</title>
-      <link>https://landskapeai.github.io/publication/triplet/</link>
+      <link>https://landskape-ai.github.io/publication/triplet/</link>
       <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://landskapeai.github.io/publication/triplet/</guid>
+      <guid>https://landskape-ai.github.io/publication/triplet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mish: A Self Regularized Non-Monotonic Activation Function</title>
-      <link>https://landskapeai.github.io/publication/mish/</link>
+      <link>https://landskape-ai.github.io/publication/mish/</link>
       <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://landskapeai.github.io/publication/mish/</guid>
+      <guid>https://landskape-ai.github.io/publication/mish/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Diganta</title>
-      <link>https://landskapeai.github.io/member/diganta/</link>
+      <link>https://landskape-ai.github.io/member/diganta/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       
-      <guid>https://landskapeai.github.io/member/diganta/</guid>
+      <guid>https://landskape-ai.github.io/member/diganta/</guid>
       <description>$\psi(x) = \tanh(\log(1+{e}^{x}))$
  This equation was the foundational point of my advent in deep learning. I&amp;rsquo;m extremely fascinated and curious of understanding the underlying theoretical mechanisms governing deep learning methods especially in the domain of Mean Field Theory, Non Convex Optimization and Non-Linear Dynamics. I am also inclined towards fundamental research in computer vision especially in the continously evolving sub-domains of Adversarial Robustness, Continual Learning and Self-Supervised Learning.</description>
     </item>
     
     <item>
       <title>Federico</title>
-      <link>https://landskapeai.github.io/member/federico/</link>
+      <link>https://landskape-ai.github.io/member/federico/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       
-      <guid>https://landskapeai.github.io/member/federico/</guid>
+      <guid>https://landskape-ai.github.io/member/federico/</guid>
       <description>Federico was the head of Research at Corvalius. Currently, he serves as the Director of Quantitative Research at Epsilon Acquisition Services. He is a recognized public speaker with 15+ years (in the trenches) delivering on performance-sensitive software on massive and high-frequency data. Working currently on Deep Reinforcement Learning on highly noisy datasets.</description>
     </item>
     
     <item>
       <title>Himanshu</title>
-      <link>https://landskapeai.github.io/member/himanshu/</link>
+      <link>https://landskape-ai.github.io/member/himanshu/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       
-      <guid>https://landskapeai.github.io/member/himanshu/</guid>
+      <guid>https://landskape-ai.github.io/member/himanshu/</guid>
       <description>I am a Research Engineer at Workday. Previously, I was a graduate student in Machine Learning at the Montréal Institute for Learning Algorithms (Mila). Before joining Mila, I worked as a Team Lead at Accenture AI, focusing on Natural Language Processing. I have recently acquired a keen research interest in Computer Vision and Self-Supervised Learning. I am currently working on the applications of Image-Based Visual Servoing for open control scenarios such as intersection navigation in Autonomous Vehicles.</description>
     </item>
     
     <item>
       <title>Jaegul</title>
-      <link>https://landskapeai.github.io/member/jaegul/</link>
+      <link>https://landskape-ai.github.io/member/jaegul/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       
-      <guid>https://landskapeai.github.io/member/jaegul/</guid>
+      <guid>https://landskape-ai.github.io/member/jaegul/</guid>
       <description>Jaegul is currently an associate professor in the Graduate School of Artificial Intelligence at KAIST. His research area lies in computer vision, natural language processing, and visual analytics. He received M.S in the School of Electrical and Computer Engineering at Georgia Tech in 2009 and Ph.D in the School of Computational Science and Engineering at Georgia Tech in 2013, advised by Prof. Haesun Park. From 2011 to 2014, he has been a research scientist at Georgia Tech.</description>
     </item>
     
     <item>
       <title>Javier</title>
-      <link>https://landskapeai.github.io/member/javier/</link>
+      <link>https://landskape-ai.github.io/member/javier/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       
-      <guid>https://landskapeai.github.io/member/javier/</guid>
+      <guid>https://landskape-ai.github.io/member/javier/</guid>
       <description>During my career I have blended scientific, technical and artistic areas in projects and ventures around the world, from Silicon Valley to the jungles of Bali, and spoken about those ventures and related work at institutions like Stanford University and UC Berkeley, the United Nations FAO HQ, the financial center of London, the International Cultural Diplomacy Conference in Berlin and many others. I consider deep learning a key opportunity to transform our world and make it a better place, looking towards a future in which human beings can have &amp;ldquo;más tiempo para lo más humano&amp;rdquo;, more time for what truly makes us human, for those things we really enjoy.</description>
     </item>
     
     <item>
       <title>Trikay</title>
-      <link>https://landskapeai.github.io/member/trikay/</link>
+      <link>https://landskape-ai.github.io/member/trikay/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       
-      <guid>https://landskapeai.github.io/member/trikay/</guid>
+      <guid>https://landskape-ai.github.io/member/trikay/</guid>
       <description>I&amp;rsquo;m a senior at the Indian Institute of Technology, Guwahati, majoring in Mathematics and Computing. I&amp;rsquo;m heavily inclined towards the theoretical aspects of deep learning and the math behind the algorithms. I have previously worked in the fields of Data-Driven Discovery of Integral-Differential Equations, Non-Convex Optimization and Attention Mechanisms in Vision. I&amp;rsquo;m currently working on the application of Reinforcement Learning in a medical setting, along with more fundamental research topics such as Activation Functions and Optimization methods.</description>
     </item>
     
     <item>
       <title>About Landskape AI</title>
-      <link>https://landskapeai.github.io/about/</link>
+      <link>https://landskape-ai.github.io/about/</link>
       <pubDate>Tue, 12 Jul 2016 15:50:58 +0200</pubDate>
       
-      <guid>https://landskapeai.github.io/about/</guid>
+      <guid>https://landskape-ai.github.io/about/</guid>
       <description>Who we are We are a small team of multi-disciplinary researchers who have a similar goal to explore the facets of theory underlining the abstraction of deep learning. Our team has cumulative experience in graphics, film making, hardware optimization, computer vision, software engineering, astrophysics and extensive knowledge in visualization, optimization and mathematics.
 What we do Our goal is to explore the theoretical avenues of deep learning which haven&amp;rsquo;t been extensively discussed and try to connect the dots to have a more firm and concrete understanding of deep learning and the black box associated to it.</description>
     </item>
     
     <item>
       <title>Ajay</title>
-      <link>https://landskapeai.github.io/member/ajay/</link>
+      <link>https://landskape-ai.github.io/member/ajay/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://landskapeai.github.io/member/ajay/</guid>
+      <guid>https://landskape-ai.github.io/member/ajay/</guid>
       <description>Ajay Uppili Arasanipalai is a student at the University of Illinois at Urbana-Champaign. In 2019, He achieved state of the art results on the Stanford DAWNBench competition, where the goal is to reduce the time and cost to train convolutional networks. Currently, Ajay is working with the BH PIRE group on building models for physical parameter extraction from black hole images obtained from general relativity simulations. He is now co-authoring a book on applied natural language processing with transformers that will be published by O’Reilly Media in summer 2021.</description>
     </item>
     
     <item>
       <title>Alex</title>
-      <link>https://landskapeai.github.io/member/alex/</link>
+      <link>https://landskape-ai.github.io/member/alex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://landskapeai.github.io/member/alex/</guid>
+      <guid>https://landskape-ai.github.io/member/alex/</guid>
       <description>Alex recently graduated from MIT with a BS in EECS and will continue his MEng at MIT next year. Last summer, he did an engineering internship at Facebook, where he built an end-to-end ML model as part of the Advertiser Integrity team. He has also done research in robustness and optimization while at MIT. His current research interests include theory for deep learning, robustness/interpretability, continual learning, and the intersection between PL and ML.</description>
     </item>
     

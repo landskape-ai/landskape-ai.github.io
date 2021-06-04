@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Landskape AI</title>
-    <link>https://landskapeai.github.io/tags/</link>
+    <link>https://landskape-ai.github.io/tags/</link>
     <description>Recent content in Tags on Landskape AI</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>&amp;copy; Landskape AI, 2020 </copyright><atom:link href="https://landskapeai.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; Landskape AI, 2020 </copyright><atom:link href="https://landskape-ai.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
