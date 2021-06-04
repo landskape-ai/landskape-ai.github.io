@@ -8,6 +8,11 @@ sort_position = 5
 title = "Alex"
 
 [[social]]
+    icon = "envelope"
+    icon_pack = "fa"
+    link = "mailto:guaforward@gmail.com"
+
+[[social]]
     icon = "linkedin"
     icon_pack = "fa"
     link = "https://www.linkedin.com/in/alex-gu-8b7664175"
