@@ -1,5 +1,5 @@
 +++
-date = "2021-03-02"
+date = "2021-06-01"
 title = "Sparse Domain Adaptation using Incremental Learning"
 description = "We explore the problem of sparse and continuous domain adaptation using incremental learning. Our motivation to approach this problem is from a standpoint of making networks adaptive to unseen classes from different domain."
 short_description = ""
