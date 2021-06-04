@@ -1,6 +1,6 @@
 +++
 date = "2021-03-02"
-title = "Tradeoff of Ensemble and Dense Networks: An Empirical Study"
+title = "Ensemble vs Dense Networks: An Empirical Study"
 description = "We explore and provide a comprehensive study of ensemble networks as compared to dense networks from the standpoint of performance, compute requirements, robustness, et cetera."
 short_description = ""
 project_id = "ENS11x"
