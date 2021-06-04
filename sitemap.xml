@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://landskapeai.github.io/project/ensemble/</loc>
+    <lastmod>2021-03-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://landskapeai.github.io/project/fsr/</loc>
     <lastmod>2021-03-02T00:00:00+00:00</lastmod>
   </url>
@@ -24,11 +29,6 @@
   
   <url>
     <loc>https://landskapeai.github.io/project/dacl/</loc>
-    <lastmod>2021-03-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://landskapeai.github.io/project/ensemble/</loc>
     <lastmod>2021-03-02T00:00:00+00:00</lastmod>
   </url>
   
