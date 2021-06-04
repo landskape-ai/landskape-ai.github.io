@@ -8,7 +8,7 @@ picture = "projects/fsr.jpg"
 external_link = ""
 participants_block_position = "down"
 include_participants_portraits = true
-sort_position = 1
+sort_position = 5
 
 [[participants]]
     name = "Diganta Misra"

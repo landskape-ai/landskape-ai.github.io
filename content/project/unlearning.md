@@ -3,12 +3,12 @@ date = "2020-12-29"
 title = "Unlearning to learn"
 description = "To achieve optimal lifelong learning without heavy retraining of large models, we propose a novel approach of unlearning aspects of previous trained on data."
 short_description = ""
-project_id = "U14x"
+project_id = "U16x"
 picture = "projects/unlearning.jpg"
 external_link = ""
 participants_block_position = "down"
 include_participants_portraits = true
-sort_position = 5
+sort_position = 6
 
 [[participants]]
     name = "Diganta Misra"

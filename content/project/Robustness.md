@@ -8,7 +8,7 @@ picture = "projects/robust.jpg"
 external_link = ""
 participants_block_position = "down"
 include_participants_portraits = true
-sort_position = 2
+sort_position = 3
 
 [[participants]]
     name = "Diganta Misra"
