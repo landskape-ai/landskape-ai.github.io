@@ -86,7 +86,7 @@
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       
       <guid>https://landskapeai.github.io/member/himanshu/</guid>
-      <description>I am a graduate student in Machine Learning at the Montréal Institute for Learning Algorithms (Mila). Before joining Mila, I worked as a Team Lead at Accenture AI, focusing on Natural Language Processing. I have recently acquired a keen research interest in Computer Vision and Self-Supervised Learning. I am currently working on the applications of Image-Based Visual Servoing for open control scenarios such as intersection navigation in Autonomous Vehicles.</description>
+      <description>I am a Research Engineer at Workday. Previously, I was a graduate student in Machine Learning at the Montréal Institute for Learning Algorithms (Mila). Before joining Mila, I worked as a Team Lead at Accenture AI, focusing on Natural Language Processing. I have recently acquired a keen research interest in Computer Vision and Self-Supervised Learning. I am currently working on the applications of Image-Based Visual Servoing for open control scenarios such as intersection navigation in Autonomous Vehicles.</description>
     </item>
     
     <item>
@@ -133,6 +133,15 @@ What we do Our goal is to explore the theoretical avenues of deep learning which
       
       <guid>https://landskapeai.github.io/member/ajay/</guid>
       <description>Ajay Uppili Arasanipalai is a student at the University of Illinois at Urbana-Champaign. In 2019, He achieved state of the art results on the Stanford DAWNBench competition, where the goal is to reduce the time and cost to train convolutional networks. Currently, Ajay is working with the BH PIRE group on building models for physical parameter extraction from black hole images obtained from general relativity simulations. He is now co-authoring a book on applied natural language processing with transformers that will be published by O’Reilly Media in summer 2021.</description>
+    </item>
+    
+    <item>
+      <title>Alex</title>
+      <link>https://landskapeai.github.io/member/alex/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://landskapeai.github.io/member/alex/</guid>
+      <description>Alex recently graduated from MIT with a BS in EECS and will continue his MEng at MIT next year. Last summer, he did an engineering internship at Facebook, where he built an end-to-end ML model as part of the Advertiser Integrity team. He has also done research in robustness and optimization while at MIT. His current research interests include theory for deep learning, robustness/interpretability, continual learning, and the intersection between PL and ML.</description>
     </item>
     
   </channel>
