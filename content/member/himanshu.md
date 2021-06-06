@@ -42,6 +42,6 @@ sort_position = 2
    
 [[organizations]]
     name = "Workday"
-    role = "Research Engineer"
+    role = "Machine Learning Engineer III"
 +++
-I am a Research Engineer at Workday. Previously, I was a graduate student in Machine Learning at the Montréal Institute for Learning Algorithms (Mila). Before joining Mila, I worked as a Team Lead at Accenture AI, focusing on Natural Language Processing. I have recently acquired a keen research interest in Computer Vision and Self-Supervised Learning. I am currently working on the applications of Image-Based Visual Servoing for open control scenarios such as intersection navigation in Autonomous Vehicles. 
+I am a Research Engineer at Workday. Previously, I was a graduate student in Machine Learning at the Montréal Institute for Learning Algorithms (Mila). Before joining Mila, I worked as a Team Lead at Accenture AI, focusing on Natural Language Processing. I have recently acquired a keen research interest in Computer Vision and Self-Supervised Learning.
