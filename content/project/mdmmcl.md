@@ -18,6 +18,10 @@ sort_position = 4
     name = "Himanshu Arora"
     id = "himanshu"
 
+[[participants]]
+    name = "Alex Gu"
+    id = "alex"
+
 +++
 
 *Coming soon*
