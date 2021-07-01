@@ -31,7 +31,7 @@ title = "Ajay"
 
 [[organizations]]
     name = "University of Illinois at Urbana-Champaign"
-    role = "Student"
+    role = "Undergraduate Student"
 
 +++
 

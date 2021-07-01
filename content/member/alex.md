@@ -40,7 +40,7 @@ title = "Alex"
 
 [[organizations]]
     name = "MIT"
-    role = "CS Student"
+    role = "Graduate CS Student"
 
 +++
 

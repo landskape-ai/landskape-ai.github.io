@@ -46,6 +46,10 @@ sort_position = 6
     institution = 'The Chinese University of Hong Kong (CUHK)'
     year = 2024
 
+[[organizations]]
+    name = "CUHK"
+    role = "Undergraduate Student"
+
 +++
 Hi! I'm an undergrad at CUHK, dabbling in research at the Multimedia Laboratory (MMLab) and NVIDIA. I'm fascinated by CV concepts of generative modelling, multi-modal learning, SSL, as well as ML tasks of generalisation, distributional & adversarial robustness. Apart from aspirations of becoming an academic/researcher, meeting Hugh Laurie and Professor Zisserman are also at the top of my bucket-list!
 
