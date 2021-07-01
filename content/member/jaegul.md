@@ -9,7 +9,7 @@ short_bio = ""
 short_name = "Jaegul"
 title = "Jaegul"
 personal_website = "https://sites.google.com/site/jaegulchoo/"
-sort_position = 7
+sort_position = 8
 
 [[social]]
     icon = "envelope"
