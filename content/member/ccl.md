@@ -14,7 +14,7 @@ sort_position = 6
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto://cchoi@link.cuhk.edu.hk"
+    link = "mailto:cchoi@link.cuhk.edu.hk"
 
 [[social]]
     icon = "google-scholar"

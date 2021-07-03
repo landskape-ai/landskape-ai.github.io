@@ -13,7 +13,7 @@ sort_position = 10
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto://federico.lois@corvalius.com"
+    link = "mailto:federico.lois@corvalius.com"
 
 [[social]]
     icon = "twitter"

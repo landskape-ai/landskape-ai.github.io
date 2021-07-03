@@ -14,7 +14,7 @@ sort_position = 8
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto://jchoo@kaist.ac.kr"
+    link = "mailto:jchoo@kaist.ac.kr"
 
 [[social]]
     icon = "twitter"

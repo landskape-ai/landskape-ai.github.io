@@ -11,7 +11,7 @@ sort_position = 9
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto://sauravvmaheshkar@gmail.com"
+    link = "mailto:sauravvmaheshkar@gmail.com"
 
 [[social]]
     icon = "github"

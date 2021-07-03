@@ -13,7 +13,7 @@ sort_position = 3
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto://nalamada.trikay@gmail.com"
+    link = "mailto:nalamada.trikay@gmail.com"
 
 [[social]]
     icon = "google-scholar"
