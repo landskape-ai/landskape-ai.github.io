@@ -2,7 +2,7 @@
 id = "sauravm"
 interests = ["Self-Supervised Learning", "Deep Learning", "Bioinformatics", "Graphical Models"]
 name = "Saurav Maheshkar"
-portrait = "/portraits/sauravm.png"
+portrait = "/portraits/sauravm.jpg"
 short_name = "Saurav"
 title = "Saurav"
 personal_website = "https://sauravmaheshkar.github.io/"
