@@ -6,7 +6,7 @@ portrait = "/portraits/sauravm.png"
 short_name = "Saurav"
 title = "Saurav"
 personal_website = "https://sauravmaheshkar.github.io/"
-sort_position = 10
+sort_position = 9
 
 [[social]]
     icon = "envelope"
@@ -34,8 +34,8 @@ sort_position = 10
     year = 2025
 
 [[organizations]]
-    name = "Weights and Biases"
-    role = "Author and Kaggle Ambassador"
+    name = "University of Edinburgh"
+    role = "Undergraduate Student"
 
 +++
 Hi! I'm an incoming an incoming freshman at the University of Edinburgh. I’m currently learning about Self-Supervised Representation Learning, Graphical Models and exploring the theoretical foundations of deep learning.
