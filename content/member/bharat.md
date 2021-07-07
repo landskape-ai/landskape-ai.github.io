@@ -11,7 +11,6 @@ title = "Bharat"
 personal_website = "https://bharat-runwal.netlify.app/"
 sort_position = 1
 
-
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
