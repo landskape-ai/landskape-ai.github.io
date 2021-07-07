@@ -35,13 +35,16 @@ sort_position = 1
 [[social]]
     icon = "cv"
     icon_pack = "ai"
-    link = "https://drive.google.com/file/d/1VRcnyj7DrbFW_YbJABY_W4DWbnPA_Rd5/view?usp=sharing"
+    link = "https://drive.google.com/file/d/1j_pZqtus4ACTYnVuWOZP-x4bjNhUiWb_/view?usp=sharing"
 
 [[education]]
     course = "BTech in Electrical Engineering(Power and Automation)"
     institution = 'Indian Institute Technology(IIT) Delhi'
     year = 2022
 
+[[organizations]]
+    name = "Indian Institute of Technology, Delhi"
+    role = "Undergraduate Student"
 +++
 
 Hi!,I am Bharat ,a third year undergraduate pursuing my B.Tech degree in Department of Electrical Engineering,IIT Delhi.Currently i’m working on Graph Structural Learning for Robust GNN, efficient methods for Neural Architecture search inspired by Human skill learning.My current research interests includes Geometric Deep learning,Optimization Theory,NLP,Computer Vision,Robustness,intersection of GNN with NLP and CV , Federated Learning.
