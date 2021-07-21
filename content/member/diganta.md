@@ -14,7 +14,7 @@ sort_position = 1
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:mishradiganta91@gmail.com"
+    link = "mailto:diganta@landskape.ai"
 
 [[social]]
     icon = "google-scholar"
