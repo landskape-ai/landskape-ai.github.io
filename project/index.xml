@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Landskape AI</title>
-    <link>https://landskape-ai.github.io/project/</link>
+    <link>https://landskape.ai/project/</link>
     <description>Recent content in Projects on Landskape AI</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; Landskape AI, 2020 </copyright>
-    <lastBuildDate>Fri, 04 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://landskape-ai.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://landskape.ai/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ensemble vs Dense Networks: An Empirical Study</title>
-      <link>https://landskape-ai.github.io/project/ensemble/</link>
+      <link>https://landskape.ai/project/ensemble/</link>
       <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://landskape-ai.github.io/project/ensemble/</guid>
+      <guid>https://landskape.ai/project/ensemble/</guid>
       <description>Coming soon</description>
     </item>
     
     <item>
       <title>Sparse Domain Adaptation using Incremental Learning</title>
-      <link>https://landskape-ai.github.io/project/dacl/</link>
+      <link>https://landskape.ai/project/dacl/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://landskape-ai.github.io/project/dacl/</guid>
+      <guid>https://landskape.ai/project/dacl/</guid>
       <description>Coming soon</description>
     </item>
     
     <item>
       <title>Robustness-Stability-Plasticity Trilemma</title>
-      <link>https://landskape-ai.github.io/project/robustness/</link>
+      <link>https://landskape.ai/project/robustness/</link>
       <pubDate>Tue, 29 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://landskape-ai.github.io/project/robustness/</guid>
+      <guid>https://landskape.ai/project/robustness/</guid>
       <description>Coming soon</description>
     </item>
     
