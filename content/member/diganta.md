@@ -41,11 +41,6 @@ sort_position = 1
     institution = 'Kalinga Institute of Industrial Technology'
     year = 2020
 
-[[education]]
-    course = "Masters of Science in Computer Science (Specialization: Machine Learning)"
-    institution = 'Montreal Institute of Learning Algorithms (MILA) and UdeM'
-    year = 2023
-
 [[organizations]]
     name = "Weights & Biases"
     role = "Machine Learning Engineer"
@@ -56,7 +51,7 @@ sort_position = 1
 
 This [equation](https://arxiv.org/abs/1908.08681) was the foundational point of my advent in deep learning. I'm extremely fascinated and curious of understanding the underlying theoretical mechanisms governing deep learning methods especially in the domain of Mean Field Theory, Non Convex Optimization and Non-Linear Dynamics. I am also inclined towards fundamental research in computer vision especially in the continously evolving sub-domains of Adversarial Robustness, Continual Learning and Self-Supervised Learning. 
 
-I also like to read a lot of fiction and compose abstract artworks. Currently, I also hold the position of a Research Associate at the Laboratory of Space Research, Hong Kong University (LSR-HKU) where I am currently investigating into methods of connecting computer vision methods to understand planetary nebulae (PNe). I am also starting my role as a full time Machine Learning Engineer at [Weights & Biases](https://www.wandb.com/). 
+I also like to read a lot of fiction and compose abstract artworks. Currently, I also hold the position of a Research Associate at the Laboratory of Space Research, Hong Kong University (LSR-HKU) where I am currently investigating into methods of connecting computer vision methods to understand planetary nebulae (PNe). I am also starting my role as a full time Machine Learning Engineer at [Weights & Biases](https://www.wandb.com/). In addition I am also a Visiting Research Scholar at [VITA, UT Austin](https://vita-group.github.io/index.html).
 
 I founded Landskape in late 2019 with the vision of gathering a diverse and proficient team to investigate more into deep learning theory and make groundbreaking research. 
 
