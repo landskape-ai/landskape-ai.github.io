@@ -1,7 +1,7 @@
 +++
 date = "2022-01-01"
 title = "Drawing tickets from a canvas"
-description = "In this work, we analyze more efficient way of drawing winning tickets using importance sampling in an anytime learning regime. We further aim to do conclusive studies on the uniqueness of the winning tickets discovered by the algorithm in comparison to conventional pruning and LTH techniques."
+description = ""
 short_description = "LTH using importance sampling in an anytime setting."
 project_id = "LTH1"
 picture = "projects/DACL.jpg"
@@ -21,6 +21,10 @@ sort_position = 2
 +++
 
 **Ongoing Project**
+
+## Abstract
+
+In this work, we analyze more efficient way of drawing winning tickets using importance sampling in an anytime learning regime. We further aim to do conclusive studies on the uniqueness of the winning tickets discovered by the algorithm in comparison to conventional pruning and LTH techniques.
 
 ## References:
 
