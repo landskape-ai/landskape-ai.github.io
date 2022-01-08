@@ -20,6 +20,17 @@ References: [1] Frankle, Jonathan, and Michael Carbin. &amp;ldquo;The lottery ti
     </item>
     
     <item>
+      <title>Robustness Survey of Graph Neural Networks</title>
+      <link>https://landskape.ai/project/robustness/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://landskape.ai/project/robustness/</guid>
+      <description>Ongoing project
+Abstract In this project, we aim to provide a conclusive thorough overview of robustness of Graph Neural Networks. We also primarily focus on the shortcomings of Stochastic GNNs and work on providing exhaustive empirical results to support our claims and to explore possible solutions to improve robustness in stochastic GNNs.
+References [1] Zhang, Ziwei, Chenhao Niu, Peng Cui, Bo Zhang, Wei Cui, and Wenwu Zhu. &amp;ldquo;A Simple and General Graph Neural Network with Stochastic Message Passing.</description>
+    </item>
+    
+    <item>
       <title>What makes an augmentation a good augmentation?</title>
       <link>https://landskape.ai/project/aug/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
@@ -27,17 +38,6 @@ References: [1] Frankle, Jonathan, and Michael Carbin. &amp;ldquo;The lottery ti
       <guid>https://landskape.ai/project/aug/</guid>
       <description>Ongoing Project
 Abstract In this work, we analyze image augmentations under various image quality assessment constraints and try to model a space of all high-performing augmentations used. We further aim to deduce that for an augmentation to perform better than baseline, it needs to fall within this closed bound space, however, we clarify that not all augmentations within this closed bound space qualify to perform better than baseline.</description>
-    </item>
-    
-    <item>
-      <title>Robustness Survey of Graph Neural Networks</title>
-      <link>https://landskape.ai/project/robustness/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://landskape.ai/project/robustness/</guid>
-      <description>Ongoing project
-Abstract In this project, we aim to provide a conclusive thorough overview of robustness of Graph Neural Networks. We also primarily focus on the shortcomings of Stochastic GNNs and work on providing exhaustive empirical results to support our claims and to explore possible solutions to improve robustness in stochastic GNNs.
-References [1] Zhang, Ziwei, Chenhao Niu, Peng Cui, Bo Zhang, Wei Cui, and Wenwu Zhu. &amp;ldquo;A Simple and General Graph Neural Network with Stochastic Message Passing.</description>
     </item>
     
   </channel>
