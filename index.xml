@@ -6,14 +6,17 @@
     <description>Recent content on Landskape AI</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; Landskape AI, 2020 </copyright>
-    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://landskape.ai/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://landskape.ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sparse Domain Adaptation using Incremental Learning</title>
-      <link>https://landskape.ai/project/dacl/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <title>Drawing tickets from a canvas</title>
+      <link>https://landskape.ai/project/lth/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://landskape.ai/project/dacl/</guid>
-      <description>Coming soon</description>
+      <guid>https://landskape.ai/project/lth/</guid>
+      <description>Ongoing Project
+References: [1] Frankle, Jonathan, and Michael Carbin. &amp;ldquo;The lottery ticket hypothesis: Finding sparse, trainable neural networks.&amp;rdquo; arXiv preprint arXiv:1803.03635 (2018).
+[2] Paul, Mansheej, Surya Ganguli, and Gintare Karolina Dziugaite. &amp;ldquo;Deep Learning on a Data Diet: Finding Important Examples Early in Training.&amp;rdquo; Advances in Neural Information Processing Systems 34 (2021).
+[3] Caccia, Lucas, Jing Xu, Myle Ott, Marc&amp;rsquo;Aurelio Ranzato, and Ludovic Denoyer. &amp;ldquo;On Anytime Learning at Macroscale.&amp;rdquo; arXiv preprint arXiv:2106.</description>
     </item>
     
     <item>
