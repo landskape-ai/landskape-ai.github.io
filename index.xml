@@ -26,7 +26,8 @@ References: [1] Frankle, Jonathan, and Michael Carbin. &amp;ldquo;The lottery ti
       
       <guid>https://landskape.ai/project/robustness/</guid>
       <description>Ongoing project
-Abstract References </description>
+Abstract In this project, we aim to provide a conclusive thorough overview of robustness of Graph Neural Networks. We also primarily focus on the shortcomings of Stochastic GNNs and work on providing exhaustive empirical results to support our claims and to explore possible solutions to improve robustness in stochastic GNNs.
+References [1] Zhang, Ziwei, Chenhao Niu, Peng Cui, Bo Zhang, Wei Cui, and Wenwu Zhu. &amp;ldquo;A Simple and General Graph Neural Network with Stochastic Message Passing.</description>
     </item>
     
     <item>
