@@ -2,7 +2,7 @@
 date = "2022-01-01"
 title = "Drawing tickets from a canvas"
 description = ""
-short_description = "LTH using importance sampling in an anytime setting."
+short_description = "LTH using importance sampling in an anytime learning setting."
 project_id = "LTH1"
 picture = "projects/DACL.jpg"
 external_link = ""

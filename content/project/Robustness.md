@@ -1,9 +1,9 @@
 +++
-date = "2020-12-29"
-title = "Robustness-Stability-Plasticity Trilemma"
-description = "The concept of catastrophic forgetting has been the foundation of continual learning, however, this phenomenon is only attributed to the generalization capabilities of the neural network. We hypothesize that there is a strong trigonal relationship between Catastrophic Forgetting, Generalization and Robustness."
-short_description = ""
-project_id = "CL13x"
+date = "2021-01-01"
+title = "Robustness Survey of Graph Neural Networks"
+description = ""
+short_description = "Extensive thorough survey on robustness of Graph Neural Networks."
+project_id = "GNN1"
 picture = "projects/robust.jpg"
 external_link = ""
 participants_block_position = "down"
@@ -11,22 +11,21 @@ include_participants_portraits = true
 sort_position = 3
 
 [[participants]]
+    name = "Bharat Runwal"
+    id = "Bharat"
+
+[[participants]]
+    name = "Saurav Maheshkar"
+    id = "sauravm"
+
+[[participants]]
     name = "Diganta Misra"
     id = "diganta"
-
-[[participants]]
-    name = "Himanshu Arora"
-    id = "himanshu"
-
-[[participants]]
-    name = "Norman Di Palo"
-    is_member = false
-    id = ""
-
-[[participants]]
-    name = "Mukund Varma T"
-    is_member = false
-    id = ""
 +++
 
-*Coming soon*
+*Ongoing project*
+
+## Abstract
+
+
+## References
