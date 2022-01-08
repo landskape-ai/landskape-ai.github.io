@@ -1,5 +1,5 @@
 +++
-date = "2021-01-01"
+date = "2022-01-01"
 title = "Robustness Survey of Graph Neural Networks"
 description = ""
 short_description = "Extensive thorough survey on robustness of Graph Neural Networks."
