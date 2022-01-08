@@ -9,7 +9,7 @@ short_bio = ""
 short_name = "CCL"
 title = "CCL"
 personal_website = "https://chinglamchoi.github.io/cchoi/"
-sort_position = 6
+sort_position = 7
 
 [[social]]
     icon = "envelope"

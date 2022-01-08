@@ -6,7 +6,7 @@ portrait = "/portraits/sauravm.jpg"
 short_name = "Saurav"
 title = "Saurav"
 personal_website = "https://sauravmaheshkar.github.io/"
-sort_position = 9
+sort_position = 10
 
 [[social]]
     icon = "envelope"

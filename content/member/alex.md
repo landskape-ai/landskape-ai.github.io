@@ -4,7 +4,7 @@ short_bio = ""
 id = "alex"
 portrait = "/portraits/alex.png"
 interests = ["Robustness", "Optimization", "Continual Learning"]
-sort_position = 5
+sort_position = 6
 title = "Alex"
 
 [[social]]

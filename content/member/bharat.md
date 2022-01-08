@@ -9,7 +9,7 @@ short_bio = ""
 short_name = "Bharat"
 title = "Bharat"
 personal_website = "https://bharat-runwal.netlify.app/"
-sort_position = 10
+sort_position = 5
 
 [[social]]
     icon = "envelope"
