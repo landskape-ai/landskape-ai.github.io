@@ -18,6 +18,10 @@ sort_position = 2
     name = "Bharat Runwal"
     id = "Bharat"
 
+[[participants]]
+name = "Ching Lam Choi"
+id = "ccl"
+
 +++
 
 **Ongoing Project**
