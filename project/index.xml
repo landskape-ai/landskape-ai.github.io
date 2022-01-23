@@ -8,15 +8,15 @@
     <copyright>&amp;copy; Landskape AI, 2020 </copyright>
     <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://landskape.ai/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Drawing tickets from a canvas</title>
+      <title>APP: Anytime Progressive Pruning</title>
       <link>https://landskape.ai/project/lth/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://landskape.ai/project/lth/</guid>
       <description>Ongoing Project
-Abstract In this work, we analyze more efficient way of drawing winning tickets using importance sampling in an anytime learning regime. We further aim to do conclusive studies on the uniqueness of the winning tickets discovered by the algorithm in comparison to conventional pruning and LTH techniques.
+Abstract In this work, we analyze more efficient way of pruning models using progressive rates in an anytime learning regime. We further aim to do conclusive studies on the uniqueness of the sparse models discovered by the algorithm in comparison to conventional pruning.
 References: [1] Frankle, Jonathan, and Michael Carbin. &amp;ldquo;The lottery ticket hypothesis: Finding sparse, trainable neural networks.&amp;rdquo; arXiv preprint arXiv:1803.03635 (2018).
-[2] Paul, Mansheej, Surya Ganguli, and Gintare Karolina Dziugaite.</description>
+[2] Caccia, Lucas, Jing Xu, Myle Ott, Marc&amp;rsquo;Aurelio Ranzato, and Ludovic Denoyer.</description>
     </item>
     
     <item>
