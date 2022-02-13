@@ -14,30 +14,7 @@
       
       <guid>https://landskape.ai/project/lth/</guid>
       <description>Ongoing Project
-Abstract In this work, we analyze more efficient way of pruning models using progressive rates in an anytime learning regime. We further aim to do conclusive studies on the uniqueness of the sparse models discovered by the algorithm in comparison to conventional pruning.
-References: [1] Frankle, Jonathan, and Michael Carbin. &amp;ldquo;The lottery ticket hypothesis: Finding sparse, trainable neural networks.&amp;rdquo; arXiv preprint arXiv:1803.03635 (2018).
-[2] Caccia, Lucas, Jing Xu, Myle Ott, Marc&amp;rsquo;Aurelio Ranzato, and Ludovic Denoyer.</description>
-    </item>
-    
-    <item>
-      <title>Robustness Survey of Graph Neural Networks</title>
-      <link>https://landskape.ai/project/robustness/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://landskape.ai/project/robustness/</guid>
-      <description>Ongoing project
-Abstract In this project, we aim to provide a conclusive thorough overview of robustness of Graph Neural Networks. We also primarily focus on the shortcomings of Stochastic GNNs and work on providing exhaustive empirical results to support our claims and to explore possible solutions to improve robustness in stochastic GNNs.
-References [1] Zhang, Ziwei, Chenhao Niu, Peng Cui, Bo Zhang, Wei Cui, and Wenwu Zhu. &amp;ldquo;A Simple and General Graph Neural Network with Stochastic Message Passing.</description>
-    </item>
-    
-    <item>
-      <title>What makes an augmentation a good augmentation?</title>
-      <link>https://landskape.ai/project/aug/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://landskape.ai/project/aug/</guid>
-      <description>Ongoing Project
-Abstract In this work, we analyze image augmentations under various image quality assessment constraints and try to model a space of all high-performing augmentations used. We further aim to deduce that for an augmentation to perform better than baseline, it needs to fall within this closed bound space, however, we clarify that not all augmentations within this closed bound space qualify to perform better than baseline.</description>
+Abstract With the latest advancements in deep learning, there has been a lot of focus on the online learning paradigm due to its relevance in industrial and practical settings. While many methods have been investigated for optimal learning settings in scenarios where the data stream is continuous over time, training sparse networks in such settings have often been overlooked. In this paper, we explore the problem statement of training a neural network with a target sparsity in a subbranch of online learning, specifically the anytime learning paradigm, and propose a novel way of progressive pruning that we term Anytime Progressive Pruning(APP), which strongly outperforms the baseline dense and Anytime OSP models across multiple architectures and datasets under short, moderate, and long sequence training.</description>
     </item>
     
     <item>
@@ -68,15 +45,6 @@ Abstract In this work, we analyze image augmentations under various image qualit
     </item>
     
     <item>
-      <title>CCL</title>
-      <link>https://landskape.ai/member/ccl/</link>
-      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
-      
-      <guid>https://landskape.ai/member/ccl/</guid>
-      <description>Hi! I&amp;rsquo;m an undergrad at CUHK, dabbling in research at the Multimedia Laboratory (MMLab) and NVIDIA. I&amp;rsquo;m fascinated by CV concepts of generative modelling, multi-modal learning, SSL, as well as ML tasks of generalisation, distributional &amp;amp; adversarial robustness. Apart from aspirations of becoming an academic/researcher, meeting Hugh Laurie and Professor Zisserman are also at the top of my bucket-list!</description>
-    </item>
-    
-    <item>
       <title>Diganta</title>
       <link>https://landskape.ai/member/diganta/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
@@ -102,15 +70,6 @@ Abstract In this work, we analyze image augmentations under various image qualit
       
       <guid>https://landskape.ai/member/himanshu/</guid>
       <description>I am a Machine Learning Engineer at Workday. Previously, I was a graduate student in Machine Learning at the Montréal Institute for Learning Algorithms (Mila). Before joining Mila, I worked as a Team Lead at Accenture AI, focusing on Natural Language Processing. I have recently acquired a keen research interest in Computer Vision and Self-Supervised Learning.</description>
-    </item>
-    
-    <item>
-      <title>Jaegul</title>
-      <link>https://landskape.ai/member/jaegul/</link>
-      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
-      
-      <guid>https://landskape.ai/member/jaegul/</guid>
-      <description>Jaegul is currently an associate professor in the Graduate School of Artificial Intelligence at KAIST. His research area lies in computer vision, natural language processing, and visual analytics. He received M.S in the School of Electrical and Computer Engineering at Georgia Tech in 2009 and Ph.D in the School of Computational Science and Engineering at Georgia Tech in 2013, advised by Prof. Haesun Park. From 2011 to 2014, he has been a research scientist at Georgia Tech.</description>
     </item>
     
     <item>
@@ -148,24 +107,6 @@ What we do Our goal is to explore the theoretical avenues of deep learning which
       
       <guid>https://landskape.ai/member/ajay/</guid>
       <description>Ajay Uppili Arasanipalai is a student at the University of Illinois at Urbana-Champaign. In 2019, He achieved state of the art results on the Stanford DAWNBench competition, where the goal is to reduce the time and cost to train convolutional networks. Currently, Ajay is working with the BH PIRE group on building models for physical parameter extraction from black hole images obtained from general relativity simulations. He is now co-authoring a book on applied natural language processing with transformers that will be published by O’Reilly Media in summer 2021.</description>
-    </item>
-    
-    <item>
-      <title>Alex</title>
-      <link>https://landskape.ai/member/alex/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://landskape.ai/member/alex/</guid>
-      <description>Alex recently graduated from MIT with a BS in EECS and will continue his MEng at MIT next year. Last summer, he did an engineering internship at Facebook, where he built an end-to-end ML model as part of the Advertiser Integrity team. He has also done research in robustness and optimization while at MIT. His current research interests include theory for deep learning, robustness/interpretability, continual learning, and the intersection between PL and ML.</description>
-    </item>
-    
-    <item>
-      <title>Saurav</title>
-      <link>https://landskape.ai/member/sauravm/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://landskape.ai/member/sauravm/</guid>
-      <description>Hi! I&amp;rsquo;m an incoming an incoming freshman at the University of Edinburgh. I’m currently learning about Self-Supervised Representation Learning, Graphical Models and exploring the theoretical foundations of deep learning.</description>
     </item>
     
   </channel>

@@ -17,15 +17,6 @@
     </item>
     
     <item>
-      <title>CCL</title>
-      <link>https://landskape.ai/member/ccl/</link>
-      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
-      
-      <guid>https://landskape.ai/member/ccl/</guid>
-      <description>Hi! I&amp;rsquo;m an undergrad at CUHK, dabbling in research at the Multimedia Laboratory (MMLab) and NVIDIA. I&amp;rsquo;m fascinated by CV concepts of generative modelling, multi-modal learning, SSL, as well as ML tasks of generalisation, distributional &amp;amp; adversarial robustness. Apart from aspirations of becoming an academic/researcher, meeting Hugh Laurie and Professor Zisserman are also at the top of my bucket-list!</description>
-    </item>
-    
-    <item>
       <title>Diganta</title>
       <link>https://landskape.ai/member/diganta/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
@@ -54,15 +45,6 @@
     </item>
     
     <item>
-      <title>Jaegul</title>
-      <link>https://landskape.ai/member/jaegul/</link>
-      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
-      
-      <guid>https://landskape.ai/member/jaegul/</guid>
-      <description>Jaegul is currently an associate professor in the Graduate School of Artificial Intelligence at KAIST. His research area lies in computer vision, natural language processing, and visual analytics. He received M.S in the School of Electrical and Computer Engineering at Georgia Tech in 2009 and Ph.D in the School of Computational Science and Engineering at Georgia Tech in 2013, advised by Prof. Haesun Park. From 2011 to 2014, he has been a research scientist at Georgia Tech.</description>
-    </item>
-    
-    <item>
       <title>Javier</title>
       <link>https://landskape.ai/member/javier/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
@@ -87,24 +69,6 @@
       
       <guid>https://landskape.ai/member/ajay/</guid>
       <description>Ajay Uppili Arasanipalai is a student at the University of Illinois at Urbana-Champaign. In 2019, He achieved state of the art results on the Stanford DAWNBench competition, where the goal is to reduce the time and cost to train convolutional networks. Currently, Ajay is working with the BH PIRE group on building models for physical parameter extraction from black hole images obtained from general relativity simulations. He is now co-authoring a book on applied natural language processing with transformers that will be published by O’Reilly Media in summer 2021.</description>
-    </item>
-    
-    <item>
-      <title>Alex</title>
-      <link>https://landskape.ai/member/alex/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://landskape.ai/member/alex/</guid>
-      <description>Alex recently graduated from MIT with a BS in EECS and will continue his MEng at MIT next year. Last summer, he did an engineering internship at Facebook, where he built an end-to-end ML model as part of the Advertiser Integrity team. He has also done research in robustness and optimization while at MIT. His current research interests include theory for deep learning, robustness/interpretability, continual learning, and the intersection between PL and ML.</description>
-    </item>
-    
-    <item>
-      <title>Saurav</title>
-      <link>https://landskape.ai/member/sauravm/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://landskape.ai/member/sauravm/</guid>
-      <description>Hi! I&amp;rsquo;m an incoming an incoming freshman at the University of Edinburgh. I’m currently learning about Self-Supervised Representation Learning, Graphical Models and exploring the theoretical foundations of deep learning.</description>
     </item>
     
   </channel>

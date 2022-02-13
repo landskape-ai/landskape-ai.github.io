@@ -14,30 +14,7 @@
       
       <guid>https://landskape.ai/project/lth/</guid>
       <description>Ongoing Project
-Abstract In this work, we analyze more efficient way of pruning models using progressive rates in an anytime learning regime. We further aim to do conclusive studies on the uniqueness of the sparse models discovered by the algorithm in comparison to conventional pruning.
-References: [1] Frankle, Jonathan, and Michael Carbin. &amp;ldquo;The lottery ticket hypothesis: Finding sparse, trainable neural networks.&amp;rdquo; arXiv preprint arXiv:1803.03635 (2018).
-[2] Caccia, Lucas, Jing Xu, Myle Ott, Marc&amp;rsquo;Aurelio Ranzato, and Ludovic Denoyer.</description>
-    </item>
-    
-    <item>
-      <title>Robustness Survey of Graph Neural Networks</title>
-      <link>https://landskape.ai/project/robustness/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://landskape.ai/project/robustness/</guid>
-      <description>Ongoing project
-Abstract In this project, we aim to provide a conclusive thorough overview of robustness of Graph Neural Networks. We also primarily focus on the shortcomings of Stochastic GNNs and work on providing exhaustive empirical results to support our claims and to explore possible solutions to improve robustness in stochastic GNNs.
-References [1] Zhang, Ziwei, Chenhao Niu, Peng Cui, Bo Zhang, Wei Cui, and Wenwu Zhu. &amp;ldquo;A Simple and General Graph Neural Network with Stochastic Message Passing.</description>
-    </item>
-    
-    <item>
-      <title>What makes an augmentation a good augmentation?</title>
-      <link>https://landskape.ai/project/aug/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://landskape.ai/project/aug/</guid>
-      <description>Ongoing Project
-Abstract In this work, we analyze image augmentations under various image quality assessment constraints and try to model a space of all high-performing augmentations used. We further aim to deduce that for an augmentation to perform better than baseline, it needs to fall within this closed bound space, however, we clarify that not all augmentations within this closed bound space qualify to perform better than baseline.</description>
+Abstract With the latest advancements in deep learning, there has been a lot of focus on the online learning paradigm due to its relevance in industrial and practical settings. While many methods have been investigated for optimal learning settings in scenarios where the data stream is continuous over time, training sparse networks in such settings have often been overlooked. In this paper, we explore the problem statement of training a neural network with a target sparsity in a subbranch of online learning, specifically the anytime learning paradigm, and propose a novel way of progressive pruning that we term Anytime Progressive Pruning(APP), which strongly outperforms the baseline dense and Anytime OSP models across multiple architectures and datasets under short, moderate, and long sequence training.</description>
     </item>
     
   </channel>
