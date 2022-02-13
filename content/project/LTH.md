@@ -24,7 +24,7 @@ sort_position = 2
 
 ## Abstract
 
-In this work, we analyze more efficient way of pruning models using progressive rates in an anytime learning regime. We further aim to do conclusive studies on the uniqueness of the sparse models discovered by the algorithm in comparison to conventional pruning.
+With the latest advancements in deep learning, there has been a lot of focus on the online learning paradigm due to its relevance in industrial and practical settings. While many methods have been investigated for optimal learning settings in scenarios where the data stream is continuous over time, training sparse networks in such settings have often been overlooked. In this paper, we explore the problem statement of training a neural network with a target sparsity in a subbranch of online learning, specifically the anytime learning paradigm, and propose a novel way of progressive pruning that we term Anytime Progressive Pruning(APP), which strongly outperforms the baseline dense and Anytime OSP models across multiple architectures and datasets under short, moderate, and long sequence training. Our method, for instance, demonstrates an accuracy improvement of ≈7% and reduction of the generalization gap by ≈34% while being ≈1/3rd the size of the baseline dense model on CIFAR-100. We further support our results by investigating the regularization effect induced by APP, which we hypothesize to be the primary reason for the drastic reduction of the generalization gap and observe interesting non-monotonic phase transitions in long sequence-based training.
 
 ## References:
 
