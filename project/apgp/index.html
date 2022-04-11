@@ -39,9 +39,9 @@
 
 
     <link rel="shortcut icon" href="https://landskape.ai/img/favicon.ico" type="image/x-icon">
-    <link rel="canonical" href="https://landskape.ai/project/lth/">
+    <link rel="canonical" href="https://landskape.ai/project/apgp/">
 
-    <title>APP: Anytime Progressive Pruning | Landskape AI</title>
+    <title>AP/GP: Anytime Progressive Growing &#43; Pruning | Landskape AI</title>
 
 </head>
 
@@ -104,7 +104,7 @@
     
 
     <article class="article article-project" itemscope itemtype="http://schema.org/Article">
-        <h1 itemprop="name">APP: Anytime Progressive Pruning</h1>
+        <h1 itemprop="name">AP/GP: Anytime Progressive Growing &#43; Pruning</h1>
         
         
 
@@ -113,11 +113,11 @@
         <div class="article-style" itemprop="articleBody">
             <p><strong>Ongoing Project</strong></p>
 <h2 id="abstract">Abstract</h2>
-<p>With the latest advancements in deep learning, there has been a lot of focus on the online learning paradigm due to its relevance in industrial and practical settings. While many methods have been investigated for optimal learning settings in scenarios where the data stream is continuous over time, training sparse networks in such settings have often been overlooked. In this paper, we explore the problem statement of training a neural network with a target sparsity in a subbranch of online learning, specifically the anytime learning paradigm, and propose a novel way of progressive pruning that we term Anytime Progressive Pruning(APP), which strongly outperforms the baseline dense and Anytime OSP models across multiple architectures and datasets under short, moderate, and long sequence training. Our method, for instance, demonstrates an accuracy improvement of ≈7% and reduction of the generalization gap by ≈34% while being ≈1/3rd the size of the baseline dense model on CIFAR-100. We further support our results by investigating the regularization effect induced by APP, which we hypothesize to be the primary reason for the drastic reduction of the generalization gap and observe interesting non-monotonic phase transitions in long sequence-based training.</p>
+<p>In this work, we propose effective and efficient solutions in regards to the issues presented in Misra et al. (2022) &ldquo;APP: Anytime Progressive Pruning&rdquo;. Precisely, we propose a new algorithm &ldquo;Anytime Progressive Pruning + Growing&rdquo; (AP/GP) that solves the issue of APP with no replay and high target sparsity while inducing similar regularization effect as that of APP. The proposed algorithm takes advantage of progressive growing and pruning techniques to achieve the same effective target sparsity as that of APP while not requiring the prior knowledge of the total number of megabatches in the stream.</p>
 <h2 id="references">References:</h2>
-<p>[1] Frankle, Jonathan, and Michael Carbin. &ldquo;The lottery ticket hypothesis: Finding sparse, trainable neural networks.&rdquo; arXiv preprint arXiv:1803.03635 (2018).</p>
+<p>[1] Misra, Diganta, Bharat Runwal, Tianlong Chen, Zhangyang Wang, and Irina Rish. &ldquo;APP: Anytime Progressive Pruning.&rdquo; arXiv preprint arXiv:2204.01640 (2022).</p>
 <p>[2] Caccia, Lucas, Jing Xu, Myle Ott, Marc&rsquo;Aurelio Ranzato, and Ludovic Denoyer. &ldquo;On Anytime Learning at Macroscale.&rdquo; arXiv preprint arXiv:2106.09563 (2021).</p>
-<p>[3] Lee, Namhoon, Thalaiyasingam Ajanthan, and Philip HS Torr. &ldquo;Snip: Single-shot network pruning based on connection sensitivity.&rdquo; arXiv preprint arXiv:1810.02340 (2018).</p>
+<p>[3] Chen, Tianlong, Zhenyu Zhang, Pengjun Wang, Santosh Balachandra, Haoyu Ma, Zehao Wang, and Zhangyang Wang. &ldquo;Sparsity Winning Twice: Better Robust Generaliztion from More Efficient Training.&rdquo; arXiv preprint arXiv:2202.09844 (2022).</p>
 
         </div>
     
@@ -129,6 +129,43 @@
                     
                 
 
+                
+                    
+
+                    
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                            <div class="col-xs-12 col-md-2">
+                                <div id="profile">
+                                    <a href="https://landskape.ai/member/richeek/">
+                                        <div class="small-portrait" itemprop="image" style="background-image: url('https://landskape.ai/img//portraits/richeek.jpg');"></div>
+                                    </a>
+                                    <div class="portrait-title">
+                                        <h3 itemprop="name"><a href="https://landskape.ai/member/richeek/">Richeek Das</a></h3>
+                                        <h4></h4>
+                                    </div>
+                                </div>
+                            </div>
+                         
+                     
+                         
+                     
+                         
+                     
+
+
+                     
+
+                     
                 
                     
 
@@ -215,6 +252,13 @@
     
    <nav>
     <ul class="pager">
+        
+        <li class="previous">
+            <a href="https://landskape.ai/project/reprogramming/">
+                <span aria-hidden="true" class="darknav">&larr;&nbsp;Previous project:</span>
+                Reprogrammers are robust learners
+            </a>
+        </li>
         
 
         

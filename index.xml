@@ -17,13 +17,24 @@
     </item>
     
     <item>
-      <title>APP: Anytime Progressive Pruning</title>
-      <link>https://landskape.ai/project/lth/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <title>AP/GP: Anytime Progressive Growing &#43; Pruning</title>
+      <link>https://landskape.ai/project/apgp/</link>
+      <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://landskape.ai/project/lth/</guid>
+      <guid>https://landskape.ai/project/apgp/</guid>
       <description>Ongoing Project
-Abstract With the latest advancements in deep learning, there has been a lot of focus on the online learning paradigm due to its relevance in industrial and practical settings. While many methods have been investigated for optimal learning settings in scenarios where the data stream is continuous over time, training sparse networks in such settings have often been overlooked. In this paper, we explore the problem statement of training a neural network with a target sparsity in a subbranch of online learning, specifically the anytime learning paradigm, and propose a novel way of progressive pruning that we term Anytime Progressive Pruning(APP), which strongly outperforms the baseline dense and Anytime OSP models across multiple architectures and datasets under short, moderate, and long sequence training.</description>
+Abstract In this work, we propose effective and efficient solutions in regards to the issues presented in Misra et al. (2022) &amp;ldquo;APP: Anytime Progressive Pruning&amp;rdquo;. Precisely, we propose a new algorithm &amp;ldquo;Anytime Progressive Pruning + Growing&amp;rdquo; (AP/GP) that solves the issue of APP with no replay and high target sparsity while inducing similar regularization effect as that of APP. The proposed algorithm takes advantage of progressive growing and pruning techniques to achieve the same effective target sparsity as that of APP while not requiring the prior knowledge of the total number of megabatches in the stream.</description>
+    </item>
+    
+    <item>
+      <title>Reprogrammers are robust learners</title>
+      <link>https://landskape.ai/project/reprogramming/</link>
+      <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://landskape.ai/project/reprogramming/</guid>
+      <description>Ongoing Project
+Abstract In this work, we investigate the effect of adversarial reprogramming on the robustness of the model upon transfer. We further are interested in adding a robustness objective into the constrained optimization process of reprogramming. We further demonstrate the effect of scaling on reprogramming and do an in-depth cost analysis breakdown comparison of reprogramming and fine-tuning.
+References: [1] Elsayed, Gamaleldin F., Ian Goodfellow, and Jascha Sohl-Dickstein. &amp;ldquo;Adversarial reprogramming of neural networks.</description>
     </item>
     
     <item>
