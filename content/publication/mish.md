@@ -15,7 +15,7 @@ url_pdf = "https://www.bmvc2020-conference.com/assets/papers/0928.pdf"
 url_project = ""
 url_slides = ""
 url_video = "https://www.bmvc2020-conference.com/conference/papers/paper_0928.html"
-url_custom = [{name = "Cite", url = "https://github.com/digantamisra98/Mish#cite-this-work"}, {name = "SOTA in Object Detection on COCO-testdev", url = "https://paperswithcode.com/sota/object-detection-on-coco"}, {name = "BMVC 2020", url = "https://www.bmvc2020-conference.com/conference/papers/paper_0928.html"}, {name = "Machine Learning Cafe Podcast", url = "http://podcast.machinelearningcafe.org/mish-activation-function-with-diganta-misra-007"}, {name = "Sicara Deep Club", url = "https://www.youtube.com/watch?v=T2CRFROKcLM"}, {name = "Computer Vision Talks", url = "https://www.youtube.com/watch?v=whOdg-yrgdI"}]
+url_custom = [{name = "Cite", url = "https://github.com/digantamisra98/Mish#cite-this-work"}, {name = "SOTA in Object Detection on COCO-testdev", url = "https://paperswithcode.com/sota/object-detection-on-coco"}, {name = "BMVC 2020", url = "https://www.bmvc2020-conference.com/conference/papers/paper_0928.html"}, {name = "Machine Learning Cafe Podcast", url = "http://podcast.machinelearningcafe.org/mish-activation-function-with-diganta-misra-007"}, {name = "Sicara Deep Club", url = "https://www.youtube.com/watch?v=T2CRFROKcLM"}, {name = "Computer Vision Talks", url = "https://www.youtube.com/watch?v=whOdg-yrgdI"},{name = "WandB dashboard", url = "https://wandb.ai/diganta/Mish"}]
 
 [[authors]]
     name = "Diganta Misra"
