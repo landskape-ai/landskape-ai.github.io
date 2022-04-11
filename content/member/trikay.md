@@ -29,10 +29,15 @@ sort_position = 3
     course = "BTech in Mathematics and Computing"
     institution = 'Indian Institute of Technology, Guwahati'
     year = 2021
+
+[[education]]
+    course = "Masters in Computer Science"
+    institution = 'Columbia University, New York'
+    year = 2023
     
 [[organizations]]
-    name = "Indian Institute of Technology, Guwahati"
-    role = "Undergraduate Student"
+    name = ""
+    role = "Director"
 +++
 
 I'm a senior at the Indian Institute of Technology, Guwahati, majoring in Mathematics and Computing. I'm heavily inclined towards the theoretical aspects of deep learning and the math behind the algorithms. I have previously worked in the fields of Data-Driven Discovery of Integral-Differential Equations, Non-Convex Optimization and Attention Mechanisms in Vision. I'm currently working on the application of Reinforcement Learning in a medical setting, along with more fundamental research topics such as Activation Functions and Optimization methods.

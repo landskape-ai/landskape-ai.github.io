@@ -43,8 +43,8 @@ sort_position = 6
 
 
 [[organizations]]
-    name = "IIT Bombay"
-    role = "CSE Undergraduate"
+    name = ""
+    role = "Student Researcher"
 
 +++
 

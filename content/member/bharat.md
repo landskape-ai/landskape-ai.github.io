@@ -43,8 +43,8 @@ sort_position = 5
     year = 2022
 
 [[organizations]]
-    name = "IIT Delhi"
-    role = "Undergraduate Student"
+    name = ""
+    role = "Student Researcher"
 +++
 
 Hi!,I am Bharat ,a third year undergraduate pursuing my B.Tech degree in Department of Electrical Engineering,IIT Delhi.Currently i’m working on Graph Structural Learning for Robust GNN, efficient methods for Neural Architecture search inspired by Human skill learning.My current research interests includes Geometric Deep learning,Optimization Theory,NLP,Computer Vision,Robustness,intersection of GNN with NLP and CV , Federated Learning.

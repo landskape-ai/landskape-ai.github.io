@@ -41,8 +41,8 @@ sort_position = 11
     year = 2003
 
 [[organizations]]
-    name = "Epsilon Acquisition Services"
-    role = "Director of Quantitative Research"
+    name = ""
+    role = "Advisor"
 
 +++
 

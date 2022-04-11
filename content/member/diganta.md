@@ -47,8 +47,8 @@ sort_position = 1
     year = 2023
 
 [[organizations]]
-    name = "MILA"
-    role = "Research MSc student"
+    name = ""
+    role = "Founder and Director"
 
 +++
 

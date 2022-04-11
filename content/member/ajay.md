@@ -30,8 +30,8 @@ title = "Ajay"
     year = 2020
 
 [[organizations]]
-    name = "University of Illinois at Urbana-Champaign"
-    role = "Undergraduate Student"
+    name = ""
+    role = "Director"
 
 +++
 

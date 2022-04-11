@@ -35,8 +35,8 @@ sort_position = 9
     institution = 'London academy of Media, Film & TV'
 
 [[organizations]]
-    name = "Ideami Studios"
-    role = "CEO"
+    name = ""
+    role = "Advisor"
 
 +++
 
