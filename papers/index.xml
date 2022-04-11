@@ -6,7 +6,16 @@
     <description>Recent content in Publications on Landskape AI</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; Landskape AI, 2020 </copyright>
-    <lastBuildDate>Mon, 02 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://landskape.ai/papers/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://landskape.ai/papers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>APP: Anytime Progressive Pruning</title>
+      <link>https://landskape.ai/publication/app/</link>
+      <pubDate>Mon, 04 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://landskape.ai/publication/app/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Rotate to Attend: Convolutional Triplet Attention Module</title>
       <link>https://landskape.ai/publication/triplet/</link>

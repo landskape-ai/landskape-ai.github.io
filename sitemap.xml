@@ -3,23 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://landskape.ai/project/lth/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <loc>https://landskape.ai/publication/app/</loc>
+    <lastmod>2022-04-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://landskape.ai/</loc>
+    <lastmod>2022-04-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://landskape.ai/papers/</loc>
+    <lastmod>2022-04-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://landskape.ai/project/lth/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://landskape.ai/project/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://landskape.ai/papers/</loc>
-    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
