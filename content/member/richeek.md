@@ -43,7 +43,7 @@ sort_position = 6
 
 
 [[organizations]]
-    name = ""
+    name = "Landskape AI"
     role = "Student Researcher"
 
 +++

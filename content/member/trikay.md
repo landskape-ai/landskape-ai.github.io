@@ -36,7 +36,7 @@ sort_position = 3
     year = 2023
     
 [[organizations]]
-    name = ""
+    name = "Landskape AI"
     role = "Director"
 +++
 

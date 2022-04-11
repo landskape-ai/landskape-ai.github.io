@@ -43,7 +43,7 @@ sort_position = 5
     year = 2022
 
 [[organizations]]
-    name = ""
+    name = "Landskape AI"
     role = "Student Researcher"
 +++
 

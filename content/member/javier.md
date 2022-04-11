@@ -35,7 +35,7 @@ sort_position = 9
     institution = 'London academy of Media, Film & TV'
 
 [[organizations]]
-    name = ""
+    name = "Landskape AI"
     role = "Advisor"
 
 +++

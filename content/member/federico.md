@@ -41,7 +41,7 @@ sort_position = 11
     year = 2003
 
 [[organizations]]
-    name = ""
+    name = "Landskape AI"
     role = "Advisor"
 
 +++

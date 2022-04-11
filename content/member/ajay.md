@@ -30,7 +30,7 @@ title = "Ajay"
     year = 2020
 
 [[organizations]]
-    name = ""
+    name = "Landskape AI"
     role = "Director"
 
 +++
