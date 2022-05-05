@@ -2,7 +2,7 @@
 bio = ""
 date = "2016-07-12T15:52:22+02:00"
 id = "diganta"
-interests = ["Robustness", "Sparsity", "Continual Learning", "Analytical Theory", "Abstract Algenra"]
+interests = ["Robustness", "Sparsity", "Continual Learning", "Analytical Theory", "Abstract Algebra"]
 name = "Diganta Misra"
 portrait = "/portraits/Diganta.jpg"
 short_bio = ""
