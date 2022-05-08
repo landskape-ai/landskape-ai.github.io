@@ -29,7 +29,7 @@ sort_position = 1
 [[social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "https://twitter.com/DigantaMisra1"
+    link = "https://twitter.com/x9x666_"
 
 [[social]]
     icon = "cv"
