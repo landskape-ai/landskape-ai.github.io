@@ -15,7 +15,7 @@ url_pdf = "https://arxiv.org/pdf/2204.01640.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
-url_custom = [{name = "Cite", url = "https://github.com/landskape-ai/Progressive-Pruning#cite"}, {name = "WandB dashboard", url = "https://wandb.ai/landskape/APP"}, {name = "Neural Scaling Laws course presentation", url = "https://bluejeans.com/playback/s/jFFH3X6y1UxAuLKW5kau2WRQHbMojKfpaySI6xGRQ56lqpaEmbdKsC9wBwWTJUag"}, {name = "MLC Research Jam #8", url = "https://youtu.be/GbHpaqwkgxE?t=924"}]
+url_custom = [{name = "Cite", url = "https://github.com/landskape-ai/Progressive-Pruning#cite"}, {name = "WandB dashboard", url = "https://wandb.ai/landskape/APP"}, {name = "Neural Scaling Laws course presentation", url = "https://bluejeans.com/playback/s/jFFH3X6y1UxAuLKW5kau2WRQHbMojKfpaySI6xGRQ56lqpaEmbdKsC9wBwWTJUag"}, {name = "MLC Research Jam #8", url = "https://youtu.be/GbHpaqwkgxE?t=924"}, {name = "Continual AI Seminar", url = "https://youtu.be/EZS2PzfyfXY"}]
 
 
 [[authors]]
