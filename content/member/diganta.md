@@ -34,7 +34,7 @@ sort_position = 1
 [[social]]
     icon = "cv"
     icon_pack = "ai"
-    link = "https://drive.google.com/file/d/1KpcZUs0ihXt66k7PGLq8nmPy8I4fPn_E/view?usp=sharing"
+    link = "https://digantamisra98.github.io/data/CV.pdf"
 
 [[education]]
     course = "BTech in Electronics and Electrical Engineering"
