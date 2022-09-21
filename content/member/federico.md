@@ -8,7 +8,7 @@ portrait = "/portraits/federico.png"
 short_bio = ""
 short_name = "Federico"
 title = "Federico"
-sort_position = 11
+sort_position = 7
 
 [[social]]
     icon = "envelope"

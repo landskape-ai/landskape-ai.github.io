@@ -1,7 +1,7 @@
 +++
 date = "2022-03-03"
-title = "Reprogrammers are robust learners"
-description = "Proving reprogramming preserves robustness upon transfer."
+title = "Forgetting exempt continual learning with a dictionary of reprogrammers"
+description = "Developing a new heterogeneous multi-modal continual learning scenario with mitigation of catastrophic forgetting using a dictionary of task specific reprogrammers coupled with a Foundation Model."
 short_description = ""
 project_id = "reprogrammer"
 picture = "projects/robust.jpg"
@@ -24,10 +24,8 @@ sort_position = 2
 
 ## Abstract
 
-In this work, we investigate the effect of adversarial reprogramming on the robustness of the model upon transfer. We further are interested in adding a robustness objective into the constrained optimization process of reprogramming. We further demonstrate the effect of scaling on reprogramming and do an in-depth cost analysis breakdown comparison of reprogramming and fine-tuning.
+In this work, we formalize a novel approach of addressing catastrophic forgetting in deep neural networks trained in a continual learning regime over a sequence of $n$ tasks. We propose using a dictionary of reprogrammers coupled with a pretrained Foundation model which we term as "Continual Reprogramming". Furthermore, we also formalize a novel heteregenous multi-modal continual learning scenario where the tasks are not only different in nature but also in the modalities of data they are trained on. We demonstrate the efficacy of our approach on a variety of datasets and show that our approach outperforms the state-of-the-art methods in the continual learning regime.
 
 ## References:
 
 [1] Elsayed, Gamaleldin F., Ian Goodfellow, and Jascha Sohl-Dickstein. "Adversarial reprogramming of neural networks." arXiv preprint arXiv:1806.11146 (2018).
-
-[2] Wortsman, Mitchell, Gabriel Ilharco, Mike Li, Jong Wook Kim, Hannaneh Hajishirzi, Ali Farhadi, Hongseok Namkoong, and Ludwig Schmidt. "Robust fine-tuning of zero-shot models." arXiv preprint arXiv:2109.01903 (2021).
