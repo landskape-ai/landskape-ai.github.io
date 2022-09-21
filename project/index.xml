@@ -8,25 +8,13 @@
     <copyright>&amp;copy; Landskape AI, 2020 </copyright>
     <lastBuildDate>Thu, 03 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://landskape.ai/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>PSNR: Progressive Scale Noisy Reconstruction</title>
-      <link>https://landskape.ai/project/psnr/</link>
-      <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://landskape.ai/project/psnr/</guid>
-      <description>Ongoing Project
-Abstract In this work, we propose the first progressive denoising framework inspired from the ALMA framework. In addition, we propose a new metric for evaluating the anytime performance of reconstruction models in the ALMA framework. Furthermore, we analyse and investigate the different effects of changing the scale of progressive noise and the size of the megabatches with respect to the final and the anytime performance.
-References: [1] Misra, Diganta, Bharat Runwal, Tianlong Chen, Zhangyang Wang, and Irina Rish.</description>
-    </item>
-    
-    <item>
-      <title>Reprogrammers are robust learners</title>
+      <title>Forgetting exempt continual learning with a dictionary of reprogrammers</title>
       <link>https://landskape.ai/project/reprogramming/</link>
       <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://landskape.ai/project/reprogramming/</guid>
       <description>Ongoing Project
-Abstract In this work, we investigate the effect of adversarial reprogramming on the robustness of the model upon transfer. We further are interested in adding a robustness objective into the constrained optimization process of reprogramming. We further demonstrate the effect of scaling on reprogramming and do an in-depth cost analysis breakdown comparison of reprogramming and fine-tuning.
-References: [1] Elsayed, Gamaleldin F., Ian Goodfellow, and Jascha Sohl-Dickstein. &amp;ldquo;Adversarial reprogramming of neural networks.</description>
+Abstract In this work, we formalize a novel approach of addressing catastrophic forgetting in deep neural networks trained in a continual learning regime over a sequence of $n$ tasks. We propose using a dictionary of reprogrammers coupled with a pretrained Foundation model which we term as &amp;ldquo;Continual Reprogramming&amp;rdquo;. Furthermore, we also formalize a novel heteregenous multi-modal continual learning scenario where the tasks are not only different in nature but also in the modalities of data they are trained on.</description>
     </item>
     
   </channel>

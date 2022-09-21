@@ -17,25 +17,13 @@
     </item>
     
     <item>
-      <title>PSNR: Progressive Scale Noisy Reconstruction</title>
-      <link>https://landskape.ai/project/psnr/</link>
-      <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://landskape.ai/project/psnr/</guid>
-      <description>Ongoing Project
-Abstract In this work, we propose the first progressive denoising framework inspired from the ALMA framework. In addition, we propose a new metric for evaluating the anytime performance of reconstruction models in the ALMA framework. Furthermore, we analyse and investigate the different effects of changing the scale of progressive noise and the size of the megabatches with respect to the final and the anytime performance.
-References: [1] Misra, Diganta, Bharat Runwal, Tianlong Chen, Zhangyang Wang, and Irina Rish.</description>
-    </item>
-    
-    <item>
-      <title>Reprogrammers are robust learners</title>
+      <title>Forgetting exempt continual learning with a dictionary of reprogrammers</title>
       <link>https://landskape.ai/project/reprogramming/</link>
       <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://landskape.ai/project/reprogramming/</guid>
       <description>Ongoing Project
-Abstract In this work, we investigate the effect of adversarial reprogramming on the robustness of the model upon transfer. We further are interested in adding a robustness objective into the constrained optimization process of reprogramming. We further demonstrate the effect of scaling on reprogramming and do an in-depth cost analysis breakdown comparison of reprogramming and fine-tuning.
-References: [1] Elsayed, Gamaleldin F., Ian Goodfellow, and Jascha Sohl-Dickstein. &amp;ldquo;Adversarial reprogramming of neural networks.</description>
+Abstract In this work, we formalize a novel approach of addressing catastrophic forgetting in deep neural networks trained in a continual learning regime over a sequence of $n$ tasks. We propose using a dictionary of reprogrammers coupled with a pretrained Foundation model which we term as &amp;ldquo;Continual Reprogramming&amp;rdquo;. Furthermore, we also formalize a novel heteregenous multi-modal continual learning scenario where the tasks are not only different in nature but also in the modalities of data they are trained on.</description>
     </item>
     
     <item>
@@ -100,15 +88,6 @@ References: [1] Elsayed, Gamaleldin F., Ian Goodfellow, and Jascha Sohl-Dickstei
       
       <guid>https://landskape.ai/member/javier/</guid>
       <description>During my career I have blended scientific, technical and artistic areas in projects and ventures around the world, from Silicon Valley to the jungles of Bali, and spoken about those ventures and related work at institutions like Stanford University and UC Berkeley, the United Nations FAO HQ, the financial center of London, the International Cultural Diplomacy Conference in Berlin and many others. I consider deep learning a key opportunity to transform our world and make it a better place, looking towards a future in which human beings can have &amp;ldquo;más tiempo para lo más humano&amp;rdquo;, more time for what truly makes us human, for those things we really enjoy.</description>
-    </item>
-    
-    <item>
-      <title>Richeek</title>
-      <link>https://landskape.ai/member/richeek/</link>
-      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
-      
-      <guid>https://landskape.ai/member/richeek/</guid>
-      <description>I am currently majoring in Computer Science and Engineering from the Indian Institute of Technology Bombay. My research interests are somewhat in the intersection of Image Processing, Compressed Sensing, Theoretical Deep Learning and Causal Statistics. Recently, I have been enjoying reading about the interesting design decisions in Graph Neural Networks! I am always on the lookout for exciting research, so do drop by if you want to have a discussion!</description>
     </item>
     
     <item>
