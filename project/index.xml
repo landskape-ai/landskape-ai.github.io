@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Landskape AI</title>
-    <link>https://landskape.ai/project/</link>
+    <link>https://landskape-ai.github.io/project/</link>
     <description>Recent content in Projects on Landskape AI</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; Landskape AI, 2020 </copyright>
-    <lastBuildDate>Thu, 03 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://landskape.ai/project/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://landskape-ai.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Forgetting exempt continual learning with a dictionary of reprogrammers</title>
-      <link>https://landskape.ai/project/reprogramming/</link>
+      <link>https://landskape-ai.github.io/project/reprogramming/</link>
       <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://landskape.ai/project/reprogramming/</guid>
+      <guid>https://landskape-ai.github.io/project/reprogramming/</guid>
       <description>Ongoing Project
 Abstract In this work, we formalize a novel approach of addressing catastrophic forgetting in deep neural networks trained in a continual learning regime over a sequence of $n$ tasks. We propose using a dictionary of reprogrammers coupled with a pretrained Foundation model which we term as &amp;ldquo;Continual Reprogramming&amp;rdquo;. Furthermore, we also formalize a novel heteregenous multi-modal continual learning scenario where the tasks are not only different in nature but also in the modalities of data they are trained on.</description>
     </item>

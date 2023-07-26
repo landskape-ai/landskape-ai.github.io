@@ -2,72 +2,72 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Landskape Team on Landskape AI</title>
-    <link>https://landskape.ai/team/</link>
+    <link>https://landskape-ai.github.io/team/</link>
     <description>Recent content in Landskape Team on Landskape AI</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; Landskape AI, 2020 </copyright>
-    <lastBuildDate>Tue, 12 Jul 2016 15:52:22 +0200</lastBuildDate><atom:link href="https://landskape.ai/team/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Jul 2016 15:52:22 +0200</lastBuildDate><atom:link href="https://landskape-ai.github.io/team/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bharat</title>
-      <link>https://landskape.ai/member/bharat/</link>
+      <link>https://landskape-ai.github.io/member/bharat/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       
-      <guid>https://landskape.ai/member/bharat/</guid>
+      <guid>https://landskape-ai.github.io/member/bharat/</guid>
       <description>Hi!,I am Bharat ,a third year undergraduate pursuing my B.Tech degree in Department of Electrical Engineering,IIT Delhi.Currently i’m working on Graph Structural Learning for Robust GNN, efficient methods for Neural Architecture search inspired by Human skill learning.My current research interests includes Geometric Deep learning,Optimization Theory,NLP,Computer Vision,Robustness,intersection of GNN with NLP and CV , Federated Learning.</description>
     </item>
     
     <item>
       <title>Diganta</title>
-      <link>https://landskape.ai/member/diganta/</link>
+      <link>https://landskape-ai.github.io/member/diganta/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       
-      <guid>https://landskape.ai/member/diganta/</guid>
+      <guid>https://landskape-ai.github.io/member/diganta/</guid>
       <description>$\psi(x) = \tanh(\log(1+{e}^{x}))$
  This equation was the foundational point of my advent in deep learning. I&amp;rsquo;m extremely fascinated and curious of understanding the underlying theoretical mechanisms governing deep learning methods especially in the domain of Mean Field Theory, Non Convex Optimization and Non-Linear Dynamics. I am also inclined towards fundamental research in computer vision especially in the continously evolving sub-domains of Adversarial Robustness, Continual Learning and Self-Supervised Learning.</description>
     </item>
     
     <item>
       <title>Federico</title>
-      <link>https://landskape.ai/member/federico/</link>
+      <link>https://landskape-ai.github.io/member/federico/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       
-      <guid>https://landskape.ai/member/federico/</guid>
+      <guid>https://landskape-ai.github.io/member/federico/</guid>
       <description>Federico was the head of Research at Corvalius. Currently, he serves as the Director of Quantitative Research at Epsilon Acquisition Services. He is a recognized public speaker with 15+ years (in the trenches) delivering on performance-sensitive software on massive and high-frequency data. Working currently on Deep Reinforcement Learning on highly noisy datasets.</description>
     </item>
     
     <item>
       <title>Himanshu</title>
-      <link>https://landskape.ai/member/himanshu/</link>
+      <link>https://landskape-ai.github.io/member/himanshu/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       
-      <guid>https://landskape.ai/member/himanshu/</guid>
+      <guid>https://landskape-ai.github.io/member/himanshu/</guid>
       <description>I am a Machine Learning Engineer at Workday. Previously, I was a graduate student in Machine Learning at the Montréal Institute for Learning Algorithms (Mila). Before joining Mila, I worked as a Team Lead at Accenture AI, focusing on Natural Language Processing. I have recently acquired a keen research interest in Computer Vision and Self-Supervised Learning.</description>
     </item>
     
     <item>
       <title>Javier</title>
-      <link>https://landskape.ai/member/javier/</link>
+      <link>https://landskape-ai.github.io/member/javier/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       
-      <guid>https://landskape.ai/member/javier/</guid>
+      <guid>https://landskape-ai.github.io/member/javier/</guid>
       <description>During my career I have blended scientific, technical and artistic areas in projects and ventures around the world, from Silicon Valley to the jungles of Bali, and spoken about those ventures and related work at institutions like Stanford University and UC Berkeley, the United Nations FAO HQ, the financial center of London, the International Cultural Diplomacy Conference in Berlin and many others. I consider deep learning a key opportunity to transform our world and make it a better place, looking towards a future in which human beings can have &amp;ldquo;más tiempo para lo más humano&amp;rdquo;, more time for what truly makes us human, for those things we really enjoy.</description>
     </item>
     
     <item>
       <title>Trikay</title>
-      <link>https://landskape.ai/member/trikay/</link>
+      <link>https://landskape-ai.github.io/member/trikay/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       
-      <guid>https://landskape.ai/member/trikay/</guid>
+      <guid>https://landskape-ai.github.io/member/trikay/</guid>
       <description>I&amp;rsquo;m a senior at the Indian Institute of Technology, Guwahati, majoring in Mathematics and Computing. I&amp;rsquo;m heavily inclined towards the theoretical aspects of deep learning and the math behind the algorithms. I have previously worked in the fields of Data-Driven Discovery of Integral-Differential Equations, Non-Convex Optimization and Attention Mechanisms in Vision. I&amp;rsquo;m currently working on the application of Reinforcement Learning in a medical setting, along with more fundamental research topics such as Activation Functions and Optimization methods.</description>
     </item>
     
     <item>
       <title>Ajay</title>
-      <link>https://landskape.ai/member/ajay/</link>
+      <link>https://landskape-ai.github.io/member/ajay/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://landskape.ai/member/ajay/</guid>
+      <guid>https://landskape-ai.github.io/member/ajay/</guid>
       <description>Ajay Uppili Arasanipalai is a student at the University of Illinois at Urbana-Champaign. In 2019, He achieved state of the art results on the Stanford DAWNBench competition, where the goal is to reduce the time and cost to train convolutional networks. Currently, Ajay is working with the BH PIRE group on building models for physical parameter extraction from black hole images obtained from general relativity simulations. He is now co-authoring a book on applied natural language processing with transformers that will be published by O’Reilly Media in summer 2021.</description>
     </item>
     
