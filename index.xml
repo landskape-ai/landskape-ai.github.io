@@ -6,7 +6,16 @@
     <description>Recent content on Landskape AI</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; Landskape AI, 2020 </copyright>
-    <lastBuildDate>Mon, 04 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://landskape-ai.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://landskape-ai.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reprogramming under constraints: Revisiting efficient and reliable transferability of lottery tickets</title>
+      <link>https://landskape-ai.github.io/publication/reprogram/</link>
+      <pubDate>Tue, 29 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://landskape-ai.github.io/publication/reprogram/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>APP: Anytime Progressive Pruning</title>
       <link>https://landskape-ai.github.io/publication/app/</link>
@@ -116,15 +125,6 @@ What we do Our goal is to explore the theoretical avenues of deep learning which
       
       <guid>https://landskape-ai.github.io/member/ajay/</guid>
       <description>Ajay Uppili Arasanipalai is a student at the University of Illinois at Urbana-Champaign. In 2019, He achieved state of the art results on the Stanford DAWNBench competition, where the goal is to reduce the time and cost to train convolutional networks. Currently, Ajay is working with the BH PIRE group on building models for physical parameter extraction from black hole images obtained from general relativity simulations. He is now co-authoring a book on applied natural language processing with transformers that will be published by O’Reilly Media in summer 2021.</description>
-    </item>
-    
-    <item>
-      <title>Reprogramming under constraints: Revisiting efficient and reliable transferability of lottery tickets</title>
-      <link>https://landskape-ai.github.io/publication/reprogram/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://landskape-ai.github.io/publication/reprogram/</guid>
-      <description></description>
     </item>
     
   </channel>
