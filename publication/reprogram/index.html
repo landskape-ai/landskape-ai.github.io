@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="theme" content="hugo-academic-group">
+
+    
+    
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://landskape-ai.github.io//js/hugo-academic-group.js"></script>
+
+    <link rel="stylesheet" href="https://landskape-ai.github.io//css/bootstrap.min.css">
+    <script src="https://landskape-ai.github.io//js/bootstrap.min.js"></script>  
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.6.0/styles/default.min.css">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.2/gh-fork-ribbon.min.css" />
+    
+    
+    <script src="https://landskape-ai.github.io//js/highlight.pack.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+
+
+    <link rel="stylesheet" href="https://landskape-ai.github.io//css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://landskape-ai.github.io//css/academicons.min.css">
+    <link rel="stylesheet" href="https://landskape-ai.github.io//css/biaslab-font.css">
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:100,300,400,700|Merriweather:100,400,700|Roboto+Mono">
+    <link rel="stylesheet" href="https://landskape-ai.github.io//css/hugo-academic-group.css">
+
+    
+    <link rel="stylesheet" href="https://landskape-ai.github.io//css/biaslab.css">
+    
+    <link rel="stylesheet" href="https://landskape-ai.github.io//css/form.css">
+    
+
+
+    <link rel="shortcut icon" href="https://landskape-ai.github.io//img/favicon.ico" type="image/x-icon">
+    <link rel="canonical" href="https://landskape-ai.github.io/publication/reprogram/">
+
+    <title>Reprogramming under constraints: Revisiting efficient and reliable transferability of lottery tickets | Landskape AI</title>
+
+</head>
+
+<body>
+<div class="home-anchor" id="home"></div>
+
+
+
+<nav class="navbar navbar-default navbar-fixed-top" id="navbar-main">
+    <div class="container">
+
+        
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse" aria-expanded="false">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+
+            <div class="navbar-brand">
+                
+                    <a class="logo" href="https://landskape-ai.github.io/">
+                        <img src="https://landskape-ai.github.io/img/logo.png" height="" width="" alt="University logo"></img>
+                    </a>
+                
+                
+            </div>
+        </div>
+
+        
+        <div class="collapse navbar-collapse" id="#navbar-collapse-1">
+
+            
+            <ul class="nav navbar-nav navbar-right">
+                
+                    
+                        <li class="nav-item"><a data-scroll href="https://landskape-ai.github.io/#projects">Projects</a></li>
+                    
+                
+                    
+                        <li class="nav-item"><a data-scroll href="https://landskape-ai.github.io/#publications">Publications</a></li>
+                    
+                
+                    
+                        <li class="nav-item"><a data-scroll href="https://landskape-ai.github.io/#members">Team</a></li>
+                    
+                
+                    
+                        <li class="nav-item"><a data-scroll href="https://landskape-ai.github.io/#contact">Contact</a></li>
+                    
+                
+                
+            </ul>
+
+        </div>
+    </div>
+</nav>
+
+
+
+<div class="container">
+
+    <div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
+
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="pub-title">
+                    <h1 itemprop="name">Reprogramming under constraints: Revisiting efficient and reliable transferability of lottery tickets</h1>
+                </div>
+            </div>
+        </div>
+        
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="pub-authors" itemprop="author">
+                    
+<div itemprop="author">
+        
+            
+                
+<span class="author-name">
+    
+    
+        
+    
+        
+            <a href="https://landskape-ai.github.io/member/diganta/">Diganta Misra</a>
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+</span>,
+            
+                
+<span class="author-name">
+    
+        Agam Goyal
+    
+</span>,
+            
+                
+<span class="author-name">
+    
+    
+        
+            <a href="https://landskape-ai.github.io/member/bharat/">Bharat Runwal</a>
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+</span>,
+            
+            
+                 
+<span class="author-name">
+    
+        Pin Yu Chen
+    
+</span>
+            
+        
+</div>
+
+                </div>
+            </div>
+        </div>
+
+        
+        
+        <div class="row">
+            <div class="col-sm-12">
+                <h3>Abstract</h3>
+            </div>
+        </div>
+        
+        <div class="row">
+            <div class="col-sm-12">
+                <p class="pub-abstract" itemprop="text">In the era of foundation models with huge pre-training budgets, the downstream tasks have been shifted to the narrative of efficient and fast adaptation. For classification-based tasks in the domain of computer vision, the two most efficient approaches have been linear probing (LP) and visual prompting/reprogramming (VP); the former aims to learn a classifier in the form of a linear head on the features extracted by the pre-trained model, while the latter maps the input data to the domain of the source data on which the model was originally pre-trained on. Although extensive studies have demonstrated the differences between LP and VP in terms of downstream performance, we explore the capabilities of the two aforementioned methods via the sparsity axis: (a) Data sparsity: the impact of few-shot adaptation and (b) Model sparsity: the impact of lottery tickets (LT). We demonstrate that LT are not universal reprogrammers, i.e., for certain target datasets, reprogramming an LT yields significantly lower performance than the reprogrammed dense model although their corresponding upstream performance is similar. Further, we demonstrate that the calibration of dense models is always superior to that of their lottery ticket counterparts under both LP and VP regimes. Our empirical study opens a new avenue of research into VP for sparse models and encourages further understanding of the performance beyond the accuracy achieved by VP under constraints of sparsity. Code and logs can be accessed at <a href="https://github.com/landskape-ai/Reprogram_LT">url</a>.</p>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
+                    <div class="col-xs-12 col-sm-9">Preprint</div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="visible-xs space-below"></div>
+
+        
+
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
+                    <div class="col-xs-12 col-sm-9" itemprop="datePublished">
+                        
+                        January, 0001
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="visible-xs space-below"></div>
+
+        <div class="row" style="padding-top: 10px">
+            <div class="col-sm-12">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-3 pub-row-heading" style="line-height:34px;">Links</div>
+                    <div class="col-xs-12 col-sm-9">
+
+                        
+
+
+
+
+<a class="btn btn-primary btn-outline" href="https://arxiv.org/abs/2308.14969">PDF</a>
+
+
+<a class="btn btn-primary btn-outline" href="https://github.com/landskape-ai/Reprogram_LT">Code</a>
+
+
+
+
+
+<a class="btn btn-primary btn-outline" href="https://github.com/landskape-ai/Reprogram_LT#cite">Cite</a>
+
+<a class="btn btn-primary btn-outline" href="https://wandb.ai/landskape/Reprogram-Sparse">WandB dashboard</a>
+
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="visible-xs space-below"></div>
+
+        <div class="space-below"></div>
+
+        <div class="article-style"></div>
+
+    </div>
+
+
+</div>
+
+<footer class="site-footer">
+    <div class="container">
+        <p class="powered-by">
+
+            © Landskape AI, 2020 &middot; 
+
+            Partially powered by the <a href="https://github.com/gcushen/hugo-academic" target="_blank">Academic theme</a> for <a href="http://gohugo.io" target="_blank">Hugo</a>.
+
+            <span class="pull-right"><a href="#home" id="back_to_top"><span class="button_icon"><i class="fa fa-chevron-up fa-2x" aria-hidden="true"></i></span></a></span>
+
+        </p>
+    </div>
+</footer>
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/gsap/1.18.4/TweenMax.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/gsap/latest/plugins/ScrollToPlugin.min.js"></script>
+
+
+
+
+<script type="text/x-mathjax-config">
+ MathJax.Hub.Config({ tex2jax: { inlineMath: [['$','$'], ['\\(','\\)']] } });
+</script>
+
+<script type="text/javascript" async
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS_CHTML">
+</script>
+
+</body>
+</html>
+
