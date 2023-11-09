@@ -14,7 +14,7 @@ sort_position = 1
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:diganta@landskape.ai"
+    link = "mailto:diganta.misra@andrew.cmu.edu"
 
 [[social]]
     icon = "google-scholar"
@@ -25,11 +25,6 @@ sort_position = 1
     icon = "github"
     icon_pack = "fa"
     link = "https://github.com/digantamisra98"
-
-[[social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "https://twitter.com/__z__9"
 
 [[social]]
     icon = "cv"
